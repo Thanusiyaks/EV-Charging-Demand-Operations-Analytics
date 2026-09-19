@@ -1,0 +1,1001 @@
+Session_ID,Station_ID,Vehicle_ID,Session_Date,Start_Time,End_Time,Energy_Consumed_kWh,Charging_Duration_Min,Waiting_Time_Min,Charger_Type,Vehicle_Type,Location,Charging_Status,Payment_Method
+S001,ST002,EV051,2026-01-07,19:15:00,20:21:00,11.0,66,0,Normal,Hatchback,T Nagar,Completed,Cash
+S002,ST007,EV092,2026-02-26,15:17:00,16:26:00,20.9,69,1,Fast,Sedan,OMR,Completed,Debit Card
+S003,ST010,EV012,2026-03-09,20:46:00,21:16:00,19.4,30,15,Fast,Sedan,Egmore,Completed,Credit Card
+S004,ST005,EV187,2026-01-21,20:55:00,22:36:00,21.4,101,10,Normal,Sedan,Adyar,Completed,Credit Card
+S005,ST003,EV146,2026-04-29,14:59:00,15:27:00,36.3,28,2,Fast,SUV,Anna Nagar,Completed,Debit Card
+S006,ST004,EV093,2026-06-17,16:56:00,17:18:00,33.8,22,4,Rapid,SUV,Guindy,Completed,Credit Card
+S007,ST003,EV249,2026-05-11,16:48:00,18:03:00,29.1,75,35,Normal,Sedan,Anna Nagar,Completed,Cash
+S008,ST001,EV130,2026-06-24,19:43:00,20:07:00,23.9,24,24,Rapid,Hatchback,Chennai Central,Completed,UPI
+S009,ST005,EV146,2026-06-13,16:12:00,17:07:00,25.6,55,0,Normal,Hatchback,Adyar,Completed,UPI
+S010,ST002,EV177,2026-05-05,20:48:00,21:48:00,18.5,60,22,Fast,Sedan,T Nagar,Completed,Credit Card
+S011,ST005,EV002,2026-04-13,23:41:00,01:33:00,17.2,112,6,Normal,MUV,Adyar,Completed,UPI
+S012,ST001,EV122,2026-02-28,06:02:00,06:38:00,25.5,36,8,Rapid,Sedan,Chennai Central,Completed,Wallet
+S013,ST004,EV028,2026-01-25,07:27:00,08:28:00,41.5,61,6,Normal,SUV,Guindy,Completed,Credit Card
+S014,ST004,EV004,2026-02-18,17:08:00,18:34:00,35.9,86,7,Normal,Sedan,Guindy,Completed,UPI
+S015,ST004,EV188,2026-02-12,14:30:00,15:32:00,10.1,62,3,Normal,SUV,Guindy,Completed,Cash
+S016,ST008,EV018,2026-02-09,09:13:00,09:23:00,0.6,10,3,Rapid,SUV,Tambaram,Failed,Cash
+S017,ST002,EV067,2026-06-22,20:25:00,21:51:00,11.3,86,12,Normal,MUV,T Nagar,Completed,Credit Card
+S018,ST006,EV034,2026-03-03,10:08:00,10:37:00,24.7,29,4,Fast,Sedan,Velachery,Completed,Debit Card
+S019,ST002,EV225,2026-03-04,13:10:00,14:43:00,30.9,93,25,Normal,SUV,T Nagar,Completed,Credit Card
+S020,ST005,EV217,2026-01-30,21:47:00,22:57:00,16.5,70,5,Fast,Sedan,Adyar,Completed,UPI
+S021,ST002,EV242,2026-06-12,15:17:00,16:28:00,15.2,71,14,Normal,Sedan,T Nagar,Completed,Credit Card
+S022,ST009,EV091,2026-01-10,20:37:00,21:21:00,38.8,44,11,Fast,SUV,Porur,Completed,Cash
+S023,ST007,EV028,2026-06-08,19:59:00,20:14:00,15.7,15,2,Rapid,MUV,OMR,Completed,Wallet
+S024,ST001,EV131,2026-05-01,09:52:00,10:17:00,2.2,25,11,Rapid,Sedan,Chennai Central,Failed,Wallet
+S025,ST009,EV099,2026-03-26,21:07:00,21:25:00,29.1,18,11,Rapid,Sedan,Porur,Completed,Cash
+S026,ST004,EV185,2026-03-07,05:27:00,06:47:00,12.2,80,5,Normal,MUV,Guindy,Completed,Debit Card
+S027,ST009,EV214,2026-03-21,18:20:00,19:31:00,31.3,71,8,Normal,Sedan,Porur,Completed,UPI
+S028,ST005,EV170,2026-03-15,09:50:00,10:43:00,31.6,53,13,Fast,Hatchback,Adyar,Completed,Cash
+S029,ST006,EV148,2026-01-24,20:48:00,22:08:00,11.5,80,3,Normal,Sedan,Velachery,Completed,Credit Card
+S030,ST007,EV218,2026-05-07,14:09:00,15:01:00,15.6,52,5,Fast,Sedan,OMR,Completed,UPI
+S031,ST008,EV221,2026-02-04,19:42:00,20:35:00,36.1,53,4,Fast,SUV,Tambaram,Completed,Wallet
+S032,ST008,EV139,2026-03-08,19:53:00,20:58:00,18.8,65,0,Fast,Hatchback,Tambaram,Completed,UPI
+S033,ST003,EV198,2026-02-08,09:44:00,11:32:00,27.4,108,6,Normal,Sedan,Anna Nagar,Completed,Cash
+S034,ST001,EV125,2026-05-28,14:00:00,14:32:00,33.9,32,4,Rapid,Sedan,Chennai Central,Completed,UPI
+S035,ST007,EV110,2026-03-28,18:51:00,20:45:00,27.1,114,15,Normal,Sedan,OMR,Completed,Credit Card
+S036,ST008,EV014,2026-02-16,05:24:00,07:02:00,34.1,98,3,Normal,SUV,Tambaram,Completed,Debit Card
+S037,ST004,EV243,2026-06-16,06:41:00,08:07:00,10.7,86,1,Normal,Sedan,Guindy,Completed,Credit Card
+S038,ST008,EV097,2026-06-29,10:23:00,11:32:00,20.0,69,6,Normal,SUV,Tambaram,Completed,Wallet
+S039,ST004,EV018,2026-01-20,17:53:00,19:01:00,35.8,68,4,Fast,Sedan,Guindy,Completed,Cash
+S040,ST006,EV167,2026-01-04,20:52:00,21:57:00,36.5,65,5,Fast,SUV,Velachery,Completed,Debit Card
+S041,ST010,EV157,2026-05-18,19:29:00,20:58:00,17.9,89,0,Normal,Hatchback,Egmore,Completed,Wallet
+S042,ST006,EV105,2026-01-08,16:20:00,16:48:00,0.7,28,5,Normal,Sedan,Velachery,Failed,Wallet
+S043,ST009,EV142,2026-03-03,18:41:00,19:11:00,17.1,30,9,Fast,SUV,Porur,Completed,Cash
+S044,ST006,EV196,2026-04-19,23:35:00,01:04:00,17.4,89,5,Normal,Hatchback,Velachery,Completed,Credit Card
+S045,ST004,EV033,2026-02-25,19:17:00,19:48:00,16.2,31,1,Fast,MUV,Guindy,Completed,Debit Card
+S046,ST001,EV014,2026-01-14,17:44:00,18:26:00,10.4,42,2,Rapid,SUV,Chennai Central,Completed,Debit Card
+S047,ST008,EV156,2026-01-30,20:25:00,20:59:00,36.0,34,2,Fast,SUV,Tambaram,Completed,Cash
+S048,ST010,EV021,2026-02-27,19:24:00,20:08:00,29.9,44,7,Fast,SUV,Egmore,Completed,Credit Card
+S049,ST004,EV068,2026-02-14,17:10:00,19:05:00,17.4,115,5,Normal,SUV,Guindy,Completed,Cash
+S050,ST004,EV120,2026-04-19,07:14:00,07:43:00,15.3,29,34,Fast,MUV,Guindy,Completed,Debit Card
+S051,ST007,EV196,2026-03-11,16:31:00,18:21:00,18.0,110,9,Normal,SUV,OMR,Completed,Debit Card
+S052,ST010,EV172,2026-01-11,19:11:00,19:47:00,23.9,36,3,Fast,Hatchback,Egmore,Completed,UPI
+S053,ST003,EV001,2026-03-26,14:31:00,15:30:00,20.1,59,7,Normal,MUV,Anna Nagar,Completed,Cash
+S054,ST008,EV008,2026-04-16,05:33:00,07:24:00,18.5,111,10,Normal,Hatchback,Tambaram,Completed,Cash
+S055,ST004,EV214,2026-02-10,12:00:00,12:54:00,13.8,54,1,Fast,Sedan,Guindy,Completed,Wallet
+S056,ST008,EV186,2026-03-04,16:09:00,18:09:00,12.2,120,3,Normal,MUV,Tambaram,Completed,Debit Card
+S057,ST010,EV179,2026-05-29,23:31:00,23:56:00,27.7,25,30,Rapid,SUV,Egmore,Completed,Credit Card
+S058,ST010,EV248,2026-04-09,10:49:00,12:44:00,36.0,115,31,Normal,Sedan,Egmore,Completed,Cash
+S059,ST006,EV160,2026-01-26,20:28:00,21:24:00,37.9,56,7,Normal,MUV,Velachery,Completed,Wallet
+S060,ST002,EV026,2026-03-26,20:54:00,21:53:00,29.8,59,10,Fast,MUV,T Nagar,Completed,UPI
+S061,ST008,EV047,2026-02-12,18:57:00,19:59:00,22.0,62,1,Normal,Sedan,Tambaram,Completed,Credit Card
+S062,ST003,EV074,2026-01-21,18:24:00,19:03:00,30.4,39,10,Fast,Sedan,Anna Nagar,Completed,Cash
+S063,ST003,EV098,2026-01-19,15:22:00,15:45:00,24.6,23,9,Rapid,Sedan,Anna Nagar,Completed,Cash
+S064,ST006,EV232,2026-05-28,11:44:00,13:29:00,28.1,105,6,Normal,MUV,Velachery,Completed,Debit Card
+S065,ST004,EV094,2026-06-05,19:14:00,20:19:00,38.9,65,6,Fast,SUV,Guindy,Completed,Credit Card
+S066,ST002,EV223,2026-03-17,12:26:00,14:07:00,39.2,101,31,Normal,Sedan,T Nagar,Completed,Debit Card
+S067,ST002,EV173,2026-04-30,22:09:00,23:09:00,12.9,60,3,Fast,Sedan,T Nagar,Completed,Debit Card
+S068,ST010,EV119,2026-04-08,20:23:00,21:21:00,40.2,58,15,Normal,Sedan,Egmore,Completed,Debit Card
+S069,ST007,EV243,2026-01-30,08:02:00,09:09:00,27.2,67,13,Normal,SUV,OMR,Completed,Cash
+S070,ST007,EV061,2026-05-31,19:09:00,19:37:00,40.0,28,2,Rapid,Hatchback,OMR,Completed,Debit Card
+S071,ST002,EV006,2026-06-25,13:57:00,14:18:00,41.0,21,7,Rapid,SUV,T Nagar,Completed,UPI
+S072,ST006,EV071,2026-03-04,23:50:00,00:52:00,36.0,62,11,Fast,Sedan,Velachery,Completed,Credit Card
+S073,ST003,EV033,2026-05-19,10:11:00,11:22:00,35.3,71,1,Normal,MUV,Anna Nagar,Completed,Wallet
+S074,ST009,EV008,2026-01-30,19:30:00,20:38:00,17.1,68,4,Normal,SUV,Porur,Completed,UPI
+S075,ST008,EV183,2026-04-13,15:06:00,15:36:00,29.5,30,8,Fast,MUV,Tambaram,Completed,Debit Card
+S076,ST007,EV087,2026-06-02,17:29:00,18:35:00,38.1,66,4,Fast,SUV,OMR,Completed,Wallet
+S077,ST007,EV190,2026-04-17,19:20:00,21:02:00,39.5,102,0,Normal,Hatchback,OMR,Completed,Debit Card
+S078,ST003,EV148,2026-05-23,06:35:00,07:22:00,31.3,47,6,Fast,Hatchback,Anna Nagar,Completed,Cash
+S079,ST004,EV158,2026-02-09,18:14:00,18:46:00,18.9,32,33,Fast,SUV,Guindy,Completed,Cash
+S080,ST001,EV169,2026-06-05,21:53:00,23:02:00,19.9,69,2,Fast,Sedan,Chennai Central,Completed,Wallet
+S081,ST002,EV022,2026-02-06,19:01:00,20:44:00,20.9,103,10,Normal,SUV,T Nagar,Completed,UPI
+S082,ST003,EV073,2026-02-10,19:03:00,19:59:00,24.1,56,2,Fast,Sedan,Anna Nagar,Completed,Cash
+S083,ST008,EV128,2026-05-15,18:02:00,19:04:00,19.6,62,1,Normal,MUV,Tambaram,Completed,Wallet
+S084,ST003,EV081,2026-02-03,14:45:00,16:25:00,37.6,100,0,Normal,SUV,Anna Nagar,Completed,Cash
+S085,ST007,EV063,2026-05-27,14:40:00,15:37:00,35.6,57,4,Normal,Sedan,OMR,Completed,Wallet
+S086,ST010,EV090,2026-04-13,17:25:00,18:04:00,15.4,39,4,Rapid,Hatchback,Egmore,Completed,Debit Card
+S087,ST003,EV237,2026-03-02,07:16:00,08:20:00,34.7,64,13,Normal,SUV,Anna Nagar,Completed,Cash
+S088,ST010,EV119,2026-03-24,20:40:00,22:35:00,19.7,115,2,Normal,SUV,Egmore,Completed,Wallet
+S089,ST001,EV011,2026-01-15,13:18:00,14:24:00,26.2,66,33,Normal,MUV,Chennai Central,Completed,Wallet
+S090,ST010,EV182,2026-06-16,08:38:00,09:31:00,36.0,53,7,Fast,Sedan,Egmore,Completed,Wallet
+S091,ST008,EV174,2026-05-15,17:10:00,18:54:00,20.8,104,4,Normal,MUV,Tambaram,Completed,Wallet
+S092,ST005,EV101,2026-03-06,19:42:00,19:59:00,28.6,17,25,Rapid,SUV,Adyar,Completed,Credit Card
+S093,ST010,EV093,2026-01-22,12:24:00,13:31:00,36.5,67,14,Fast,Sedan,Egmore,Completed,UPI
+S094,ST006,EV227,2026-03-21,08:13:00,09:32:00,15.0,79,7,Normal,Hatchback,Velachery,Completed,Cash
+S095,ST001,EV185,2026-06-19,12:49:00,13:24:00,36.6,35,4,Fast,SUV,Chennai Central,Completed,Credit Card
+S096,ST008,EV113,2026-06-06,11:47:00,12:31:00,35.9,44,9,Fast,Sedan,Tambaram,Completed,Wallet
+S097,ST005,EV032,2026-04-08,16:26:00,16:42:00,30.5,16,14,Rapid,Hatchback,Adyar,Completed,Debit Card
+S098,ST002,EV061,2026-02-11,11:57:00,12:36:00,24.4,39,2,Fast,Hatchback,T Nagar,Completed,Wallet
+S099,ST002,EV021,2026-04-06,09:20:00,09:39:00,11.2,19,3,Rapid,Hatchback,T Nagar,Completed,UPI
+S100,ST005,EV160,2026-02-25,20:35:00,21:14:00,19.2,39,2,Rapid,SUV,Adyar,Completed,Wallet
+S101,ST002,EV107,2026-01-29,20:31:00,21:32:00,33.0,61,12,Fast,Sedan,T Nagar,Completed,Credit Card
+S102,ST002,EV005,2026-05-15,22:04:00,22:19:00,22.5,15,28,Rapid,SUV,T Nagar,Completed,Debit Card
+S103,ST002,EV047,2026-03-30,10:42:00,11:15:00,21.3,33,30,Fast,Hatchback,T Nagar,Completed,Credit Card
+S104,ST002,EV049,2026-04-28,04:12:00,05:12:00,19.9,60,3,Normal,Sedan,T Nagar,Completed,Debit Card
+S105,ST006,EV237,2026-01-13,20:21:00,22:11:00,24.1,110,3,Normal,Hatchback,Velachery,Completed,Cash
+S106,ST005,EV110,2026-01-22,19:05:00,20:23:00,20.3,78,0,Normal,MUV,Adyar,Completed,Credit Card
+S107,ST008,EV174,2026-03-31,15:46:00,16:21:00,41.4,35,0,Rapid,SUV,Tambaram,Completed,Credit Card
+S108,ST001,EV116,2026-02-06,20:43:00,21:23:00,30.6,40,2,Fast,Sedan,Chennai Central,Completed,Debit Card
+S109,ST006,EV144,2026-04-24,19:36:00,21:11:00,18.0,95,0,Normal,SUV,Velachery,Completed,UPI
+S110,ST005,EV023,2026-03-08,19:13:00,19:31:00,14.3,18,13,Rapid,Sedan,Adyar,Completed,Debit Card
+S111,ST006,EV142,2026-01-17,17:18:00,17:49:00,17.2,31,8,Rapid,MUV,Velachery,Completed,Cash
+S112,ST006,EV148,2026-04-30,19:35:00,20:38:00,42.0,63,5,Normal,MUV,Velachery,Completed,UPI
+S113,ST003,EV032,2026-03-23,18:28:00,19:28:00,28.8,60,32,Fast,SUV,Anna Nagar,Completed,Cash
+S114,ST003,EV024,2026-03-19,08:20:00,08:43:00,16.3,23,10,Rapid,Sedan,Anna Nagar,Completed,Cash
+S115,ST003,EV068,2026-06-01,21:09:00,22:47:00,36.4,98,17,Normal,SUV,Anna Nagar,Completed,Credit Card
+S116,ST010,EV041,2026-04-17,18:01:00,19:07:00,19.7,66,1,Fast,SUV,Egmore,Completed,Wallet
+S117,ST007,EV032,2026-05-04,16:21:00,17:08:00,14.2,47,2,Fast,Sedan,OMR,Completed,Debit Card
+S118,ST008,EV041,2026-03-05,08:03:00,09:51:00,37.7,108,11,Normal,SUV,Tambaram,Completed,Wallet
+S119,ST009,EV153,2026-04-30,16:19:00,17:16:00,40.9,57,1,Fast,Sedan,Porur,Completed,Wallet
+S120,ST005,EV019,2026-05-18,00:06:00,01:47:00,11.4,101,0,Normal,MUV,Adyar,Completed,Wallet
+S121,ST009,EV131,2026-04-26,19:17:00,19:50:00,22.6,33,14,Fast,SUV,Porur,Completed,Wallet
+S122,ST009,EV158,2026-01-11,05:08:00,05:42:00,38.6,34,1,Fast,Hatchback,Porur,Completed,Debit Card
+S123,ST010,EV186,2026-03-28,16:32:00,17:27:00,10.5,55,7,Fast,Hatchback,Egmore,Completed,UPI
+S124,ST010,EV009,2026-05-02,10:41:00,11:09:00,25.4,28,4,Fast,Hatchback,Egmore,Completed,Cash
+S125,ST002,EV170,2026-02-18,01:20:00,02:41:00,34.8,81,3,Normal,SUV,T Nagar,Completed,Wallet
+S126,ST009,EV058,2026-04-07,12:11:00,12:25:00,2.2,14,5,Fast,SUV,Porur,Failed,Debit Card
+S127,ST005,EV011,2026-06-30,09:45:00,09:59:00,6.4,14,12,Fast,SUV,Adyar,Failed,Debit Card
+S128,ST002,EV062,2026-03-30,21:41:00,23:01:00,39.9,80,5,Normal,SUV,T Nagar,Completed,Credit Card
+S129,ST001,EV240,2026-06-21,21:14:00,21:39:00,1.3,25,16,Fast,Sedan,Chennai Central,Failed,Wallet
+S130,ST008,EV240,2026-06-16,09:18:00,10:24:00,17.4,66,5,Normal,SUV,Tambaram,Completed,UPI
+S131,ST007,EV135,2026-05-07,08:47:00,09:11:00,28.2,24,0,Rapid,MUV,OMR,Completed,Wallet
+S132,ST003,EV045,2026-05-10,16:12:00,17:18:00,33.0,66,11,Fast,Sedan,Anna Nagar,Completed,Cash
+S133,ST007,EV245,2026-04-20,17:05:00,18:17:00,39.9,72,0,Normal,Sedan,OMR,Completed,Debit Card
+S134,ST005,EV228,2026-05-30,19:00:00,20:25:00,13.8,85,8,Normal,SUV,Adyar,Completed,Debit Card
+S135,ST002,EV194,2026-06-13,21:18:00,22:30:00,24.6,72,11,Normal,Sedan,T Nagar,Completed,Cash
+S136,ST004,EV052,2026-03-05,18:38:00,19:15:00,21.6,37,7,Rapid,Sedan,Guindy,Completed,Cash
+S137,ST009,EV117,2026-02-08,08:54:00,10:04:00,25.6,70,4,Fast,Sedan,Porur,Completed,Cash
+S138,ST001,EV016,2026-05-24,16:51:00,18:18:00,17.0,87,0,Normal,Sedan,Chennai Central,Completed,UPI
+S139,ST008,EV139,2026-01-09,11:11:00,11:59:00,22.2,48,12,Fast,Hatchback,Tambaram,Completed,Credit Card
+S140,ST006,EV059,2026-01-31,08:34:00,09:57:00,10.7,83,2,Normal,Sedan,Velachery,Completed,Credit Card
+S141,ST008,EV009,2026-03-30,08:12:00,08:52:00,31.1,40,4,Rapid,Hatchback,Tambaram,Completed,Wallet
+S142,ST010,EV235,2026-06-22,19:03:00,20:54:00,17.0,111,32,Normal,Sedan,Egmore,Completed,Cash
+S143,ST006,EV189,2026-05-28,18:43:00,19:50:00,17.1,67,10,Fast,Sedan,Velachery,Completed,Credit Card
+S144,ST007,EV218,2026-05-23,16:22:00,16:50:00,23.1,28,12,Rapid,Hatchback,OMR,Completed,Credit Card
+S145,ST005,EV116,2026-02-06,20:58:00,22:46:00,14.3,108,1,Normal,SUV,Adyar,Completed,Debit Card
+S146,ST002,EV086,2026-05-18,19:12:00,20:12:00,35.7,60,4,Normal,SUV,T Nagar,Completed,Debit Card
+S147,ST001,EV098,2026-02-24,21:47:00,23:43:00,29.3,116,12,Normal,MUV,Chennai Central,Completed,Wallet
+S148,ST009,EV145,2026-06-16,13:16:00,15:10:00,41.4,114,3,Normal,MUV,Porur,Completed,Credit Card
+S149,ST003,EV176,2026-01-05,10:59:00,11:33:00,20.6,34,3,Fast,Hatchback,Anna Nagar,Completed,Debit Card
+S150,ST005,EV242,2026-05-06,22:41:00,22:48:00,4.2,7,33,Fast,SUV,Adyar,Failed,UPI
+S151,ST001,EV005,2026-04-16,08:40:00,09:36:00,24.6,56,35,Normal,Hatchback,Chennai Central,Completed,UPI
+S152,ST009,EV039,2026-05-22,14:01:00,14:27:00,36.0,26,5,Fast,Sedan,Porur,Completed,Credit Card
+S153,ST004,EV021,2026-06-08,17:52:00,18:57:00,23.0,65,4,Normal,Hatchback,Guindy,Completed,UPI
+S154,ST002,EV059,2026-04-14,14:35:00,14:41:00,7.2,6,34,Fast,SUV,T Nagar,Failed,Credit Card
+S155,ST010,EV211,2026-05-02,11:59:00,12:58:00,37.2,59,0,Normal,MUV,Egmore,Completed,Wallet
+S156,ST002,EV026,2026-03-18,08:15:00,09:04:00,33.7,49,7,Fast,Hatchback,T Nagar,Completed,Wallet
+S157,ST004,EV150,2026-01-20,13:49:00,14:15:00,3.5,26,3,Fast,SUV,Guindy,Failed,Wallet
+S158,ST002,EV242,2026-06-08,11:15:00,12:04:00,35.1,49,1,Fast,Sedan,T Nagar,Completed,Debit Card
+S159,ST008,EV154,2026-04-03,19:06:00,20:58:00,26.4,112,0,Normal,Sedan,Tambaram,Completed,Debit Card
+S160,ST007,EV038,2026-01-04,11:24:00,12:25:00,15.4,61,3,Fast,Hatchback,OMR,Completed,UPI
+S161,ST003,EV002,2026-04-22,11:19:00,11:59:00,30.0,40,4,Fast,Sedan,Anna Nagar,Completed,Wallet
+S162,ST006,EV189,2026-06-08,14:55:00,15:09:00,7.7,14,5,Normal,Sedan,Velachery,Failed,Wallet
+S163,ST010,EV242,2026-03-04,12:17:00,13:18:00,29.0,61,4,Fast,SUV,Egmore,Completed,Credit Card
+S164,ST008,EV203,2026-03-16,20:04:00,21:12:00,14.5,68,9,Fast,Hatchback,Tambaram,Completed,Wallet
+S165,ST002,EV197,2026-04-25,23:30:00,00:29:00,35.3,59,14,Fast,SUV,T Nagar,Completed,Credit Card
+S166,ST006,EV133,2026-02-12,18:02:00,18:48:00,35.5,46,0,Fast,SUV,Velachery,Completed,Cash
+S167,ST010,EV037,2026-06-26,17:28:00,17:56:00,0.9,28,3,Normal,SUV,Egmore,Failed,Debit Card
+S168,ST005,EV006,2026-03-29,15:13:00,16:06:00,32.3,53,2,Fast,Sedan,Adyar,Completed,Debit Card
+S169,ST002,EV048,2026-06-23,19:59:00,20:19:00,20.6,20,13,Rapid,Sedan,T Nagar,Completed,Wallet
+S170,ST007,EV048,2026-01-08,19:56:00,21:40:00,16.9,104,2,Normal,SUV,OMR,Completed,Debit Card
+S171,ST006,EV045,2026-02-20,16:16:00,17:19:00,29.6,63,4,Fast,SUV,Velachery,Completed,Debit Card
+S172,ST010,EV109,2026-06-01,06:08:00,07:17:00,32.2,69,12,Normal,Sedan,Egmore,Completed,Credit Card
+S173,ST008,EV003,2026-06-12,17:58:00,18:54:00,14.5,56,2,Fast,MUV,Tambaram,Completed,Wallet
+S174,ST003,EV057,2026-02-19,20:35:00,21:26:00,36.9,51,8,Fast,SUV,Anna Nagar,Completed,Debit Card
+S175,ST001,EV211,2026-03-12,09:18:00,11:16:00,13.6,118,10,Normal,SUV,Chennai Central,Completed,UPI
+S176,ST008,EV222,2026-05-20,09:27:00,10:53:00,42.0,86,10,Normal,Hatchback,Tambaram,Completed,UPI
+S177,ST004,EV153,2026-02-23,20:37:00,21:12:00,14.5,35,9,Fast,MUV,Guindy,Completed,Cash
+S178,ST003,EV222,2026-03-24,23:18:00,01:18:00,13.0,120,6,Normal,Sedan,Anna Nagar,Completed,Credit Card
+S179,ST004,EV226,2026-02-07,19:53:00,21:38:00,28.5,105,2,Normal,Hatchback,Guindy,Completed,UPI
+S180,ST007,EV218,2026-05-12,19:44:00,20:17:00,10.1,33,7,Rapid,SUV,OMR,Completed,UPI
+S181,ST009,EV196,2026-04-12,09:27:00,10:10:00,27.5,43,15,Fast,SUV,Porur,Completed,UPI
+S182,ST001,EV224,2026-01-26,18:53:00,19:46:00,10.0,53,9,Fast,Sedan,Chennai Central,Completed,Debit Card
+S183,ST002,EV001,2026-06-17,13:05:00,14:21:00,30.0,76,9,Normal,MUV,T Nagar,Completed,Credit Card
+S184,ST008,EV188,2026-01-20,08:14:00,09:23:00,36.1,69,3,Fast,SUV,Tambaram,Completed,UPI
+S185,ST002,EV090,2026-03-22,13:19:00,14:31:00,14.6,72,15,Normal,Hatchback,T Nagar,Completed,Credit Card
+S186,ST003,EV036,2026-04-16,18:28:00,19:07:00,13.9,39,27,Rapid,Sedan,Anna Nagar,Completed,Credit Card
+S187,ST005,EV192,2026-06-15,06:35:00,07:44:00,37.1,69,5,Fast,Hatchback,Adyar,Completed,Wallet
+S188,ST005,EV093,2026-06-15,05:57:00,06:29:00,26.0,32,7,Fast,Sedan,Adyar,Completed,Debit Card
+S189,ST003,EV011,2026-04-10,20:36:00,21:53:00,41.6,77,0,Normal,SUV,Anna Nagar,Completed,UPI
+S190,ST007,EV236,2026-05-10,11:45:00,12:15:00,27.2,30,4,Fast,SUV,OMR,Completed,Credit Card
+S191,ST003,EV117,2026-05-18,12:37:00,13:21:00,24.0,44,1,Fast,Hatchback,Anna Nagar,Completed,Cash
+S192,ST010,EV185,2026-01-15,12:47:00,13:57:00,32.4,70,1,Fast,Sedan,Egmore,Completed,Debit Card
+S193,ST003,EV117,2026-04-06,07:49:00,08:09:00,5.0,20,2,Rapid,Hatchback,Anna Nagar,Failed,Cash
+S194,ST006,EV063,2026-01-15,16:36:00,17:44:00,33.1,68,1,Normal,Sedan,Velachery,Completed,UPI
+S195,ST008,EV185,2026-04-04,14:09:00,15:08:00,39.2,59,5,Normal,MUV,Tambaram,Completed,Debit Card
+S196,ST005,EV199,2026-01-20,17:07:00,17:46:00,26.5,39,12,Fast,MUV,Adyar,Completed,Debit Card
+S197,ST006,EV204,2026-01-23,17:00:00,18:33:00,24.8,93,13,Normal,Sedan,Velachery,Completed,Credit Card
+S198,ST003,EV249,2026-01-02,21:01:00,21:07:00,3.4,6,3,Normal,Sedan,Anna Nagar,Failed,Credit Card
+S199,ST005,EV152,2026-01-24,05:14:00,05:52:00,12.7,38,14,Rapid,SUV,Adyar,Completed,Cash
+S200,ST001,EV052,2026-04-22,18:08:00,19:43:00,36.6,95,2,Normal,Sedan,Chennai Central,Completed,Credit Card
+S201,ST010,EV024,2026-01-28,08:10:00,09:20:00,40.9,70,1,Normal,Sedan,Egmore,Completed,Credit Card
+S202,ST005,EV210,2026-06-30,19:02:00,20:15:00,17.9,73,2,Normal,MUV,Adyar,Completed,Credit Card
+S203,ST001,EV096,2026-04-14,20:35:00,20:52:00,1.0,17,6,Fast,Sedan,Chennai Central,Failed,UPI
+S204,ST010,EV044,2026-05-31,10:52:00,12:12:00,35.9,80,0,Normal,MUV,Egmore,Completed,Cash
+S205,ST007,EV076,2026-04-12,16:24:00,17:00:00,19.0,36,6,Fast,Sedan,OMR,Completed,Wallet
+S206,ST007,EV092,2026-05-21,16:05:00,17:25:00,35.5,80,16,Normal,Sedan,OMR,Completed,Wallet
+S207,ST009,EV092,2026-05-05,13:36:00,14:02:00,29.1,26,10,Fast,SUV,Porur,Completed,Cash
+S208,ST004,EV207,2026-02-10,07:42:00,08:44:00,37.1,62,3,Normal,SUV,Guindy,Completed,Debit Card
+S209,ST010,EV006,2026-01-08,19:22:00,19:54:00,19.9,32,3,Rapid,SUV,Egmore,Completed,Cash
+S210,ST008,EV246,2026-01-01,12:39:00,13:56:00,10.7,77,8,Normal,Sedan,Tambaram,Completed,UPI
+S211,ST006,EV202,2026-06-30,21:25:00,21:49:00,5.5,24,3,Fast,Sedan,Velachery,Failed,Debit Card
+S212,ST004,EV146,2026-06-20,17:11:00,18:43:00,33.3,92,15,Normal,Hatchback,Guindy,Completed,UPI
+S213,ST003,EV227,2026-06-04,12:51:00,13:10:00,20.6,19,27,Rapid,Sedan,Anna Nagar,Completed,UPI
+S214,ST006,EV127,2026-04-25,00:13:00,01:40:00,10.0,87,29,Normal,Sedan,Velachery,Completed,Wallet
+S215,ST006,EV228,2026-05-20,13:53:00,14:03:00,0.6,10,0,Fast,MUV,Velachery,Failed,Wallet
+S216,ST003,EV026,2026-01-20,17:57:00,18:12:00,23.8,15,8,Rapid,Sedan,Anna Nagar,Completed,Debit Card
+S217,ST004,EV040,2026-02-18,14:35:00,15:42:00,19.5,67,6,Fast,Hatchback,Guindy,Completed,UPI
+S218,ST006,EV201,2026-01-01,15:18:00,15:55:00,10.8,37,1,Fast,SUV,Velachery,Completed,Wallet
+S219,ST008,EV058,2026-05-06,21:16:00,22:34:00,22.2,78,1,Normal,SUV,Tambaram,Completed,Debit Card
+S220,ST010,EV134,2026-01-16,08:44:00,09:43:00,41.1,59,4,Fast,Sedan,Egmore,Completed,Wallet
+S221,ST009,EV147,2026-06-25,20:30:00,21:00:00,38.9,30,6,Fast,Sedan,Porur,Completed,Cash
+S222,ST003,EV214,2026-01-31,22:28:00,23:50:00,11.4,82,22,Normal,MUV,Anna Nagar,Completed,Cash
+S223,ST005,EV134,2026-03-23,21:58:00,22:58:00,37.4,60,13,Fast,Sedan,Adyar,Completed,Wallet
+S224,ST002,EV168,2026-04-17,08:36:00,09:07:00,34.9,31,14,Fast,Hatchback,T Nagar,Completed,Wallet
+S225,ST010,EV230,2026-06-05,16:11:00,17:57:00,38.5,106,9,Normal,Sedan,Egmore,Completed,Debit Card
+S226,ST001,EV166,2026-03-28,20:19:00,21:26:00,19.6,67,5,Normal,Hatchback,Chennai Central,Completed,UPI
+S227,ST004,EV135,2026-04-24,09:52:00,11:34:00,35.3,102,0,Normal,SUV,Guindy,Completed,Cash
+S228,ST001,EV102,2026-02-14,09:53:00,10:52:00,39.4,59,5,Normal,Sedan,Chennai Central,Completed,UPI
+S229,ST001,EV042,2026-03-03,13:38:00,15:33:00,21.2,115,1,Normal,MUV,Chennai Central,Completed,Cash
+S230,ST004,EV154,2026-02-26,18:43:00,20:43:00,35.0,120,31,Normal,Hatchback,Guindy,Completed,UPI
+S231,ST004,EV134,2026-03-06,18:19:00,19:11:00,22.0,52,2,Fast,Hatchback,Guindy,Completed,Cash
+S232,ST007,EV071,2026-05-30,07:32:00,08:07:00,29.0,35,2,Rapid,MUV,OMR,Completed,Debit Card
+S233,ST005,EV168,2026-03-08,18:57:00,19:25:00,37.4,28,12,Fast,Sedan,Adyar,Completed,Wallet
+S234,ST005,EV130,2026-03-08,21:25:00,22:44:00,32.8,79,31,Normal,Sedan,Adyar,Completed,Debit Card
+S235,ST003,EV224,2026-06-18,20:11:00,21:39:00,39.2,88,5,Normal,SUV,Anna Nagar,Completed,Debit Card
+S236,ST007,EV031,2026-03-26,13:37:00,15:32:00,30.3,115,4,Normal,MUV,OMR,Completed,Wallet
+S237,ST009,EV021,2026-03-18,15:55:00,16:23:00,41.6,28,8,Rapid,Sedan,Porur,Completed,Wallet
+S238,ST006,EV034,2026-06-11,23:20:00,23:58:00,34.8,38,8,Fast,Sedan,Velachery,Completed,Cash
+S239,ST007,EV161,2026-06-12,15:27:00,15:48:00,33.4,21,0,Rapid,SUV,OMR,Completed,Credit Card
+S240,ST004,EV087,2026-06-27,20:19:00,21:53:00,36.4,94,10,Normal,SUV,Guindy,Completed,Wallet
+S241,ST003,EV094,2026-03-29,23:31:00,01:17:00,17.2,106,9,Normal,Sedan,Anna Nagar,Completed,UPI
+S242,ST007,EV141,2026-06-13,10:34:00,11:41:00,30.9,67,0,Fast,SUV,OMR,Completed,Debit Card
+S243,ST008,EV231,2026-06-29,08:44:00,09:51:00,31.2,67,15,Fast,Sedan,Tambaram,Completed,UPI
+S244,ST009,EV128,2026-06-08,07:07:00,07:48:00,26.7,41,1,Fast,SUV,Porur,Completed,Credit Card
+S245,ST008,EV117,2026-03-26,10:00:00,10:34:00,12.9,34,19,Fast,MUV,Tambaram,Completed,Debit Card
+S246,ST005,EV003,2026-04-29,05:52:00,07:24:00,31.7,92,7,Normal,Sedan,Adyar,Completed,Credit Card
+S247,ST003,EV099,2026-03-26,13:28:00,14:09:00,21.0,41,28,Rapid,Sedan,Anna Nagar,Completed,Wallet
+S248,ST007,EV098,2026-06-16,21:10:00,22:12:00,23.3,62,13,Normal,Hatchback,OMR,Completed,Debit Card
+S249,ST010,EV004,2026-01-08,20:56:00,21:51:00,25.6,55,3,Fast,MUV,Egmore,Completed,Cash
+S250,ST010,EV229,2026-05-25,09:42:00,10:18:00,33.3,36,3,Rapid,SUV,Egmore,Completed,Cash
+S251,ST001,EV058,2026-01-03,18:10:00,18:45:00,34.0,35,26,Fast,SUV,Chennai Central,Completed,Cash
+S252,ST007,EV104,2026-04-14,20:05:00,20:35:00,26.0,30,7,Fast,Hatchback,OMR,Completed,Wallet
+S253,ST001,EV058,2026-05-23,17:52:00,19:25:00,16.6,93,5,Normal,SUV,Chennai Central,Completed,Wallet
+S254,ST006,EV205,2026-05-24,19:38:00,20:10:00,34.3,32,1,Fast,Hatchback,Velachery,Completed,Debit Card
+S255,ST009,EV219,2026-05-14,13:06:00,14:18:00,33.1,72,0,Normal,Sedan,Porur,Completed,Wallet
+S256,ST004,EV169,2026-04-28,20:12:00,20:39:00,30.3,27,15,Fast,Sedan,Guindy,Completed,Cash
+S257,ST009,EV100,2026-02-04,22:00:00,23:02:00,39.6,62,15,Fast,Sedan,Porur,Completed,Cash
+S258,ST010,EV227,2026-03-24,16:24:00,17:50:00,40.8,86,2,Normal,SUV,Egmore,Completed,Cash
+S259,ST005,EV246,2026-06-29,17:20:00,17:57:00,30.0,37,20,Fast,MUV,Adyar,Completed,Credit Card
+S260,ST009,EV207,2026-05-19,18:20:00,19:22:00,40.2,62,5,Fast,Hatchback,Porur,Completed,UPI
+S261,ST009,EV092,2026-01-28,02:09:00,03:38:00,31.9,89,1,Normal,Sedan,Porur,Completed,Wallet
+S262,ST002,EV245,2026-06-07,20:47:00,21:27:00,35.1,40,17,Fast,Sedan,T Nagar,Completed,Debit Card
+S263,ST009,EV199,2026-01-14,00:16:00,02:07:00,30.3,111,5,Normal,MUV,Porur,Completed,Credit Card
+S264,ST005,EV066,2026-04-25,08:43:00,10:43:00,11.3,120,2,Normal,MUV,Adyar,Completed,UPI
+S265,ST006,EV182,2026-04-30,19:09:00,20:10:00,37.0,61,13,Normal,MUV,Velachery,Completed,Debit Card
+S266,ST009,EV076,2026-02-26,22:33:00,00:21:00,22.9,108,9,Normal,SUV,Porur,Completed,Credit Card
+S267,ST010,EV227,2026-05-16,16:35:00,17:07:00,21.1,32,1,Fast,MUV,Egmore,Completed,Debit Card
+S268,ST007,EV132,2026-01-30,14:34:00,15:31:00,26.3,57,6,Fast,Sedan,OMR,Completed,UPI
+S269,ST002,EV225,2026-02-12,22:49:00,23:27:00,30.1,38,1,Fast,Sedan,T Nagar,Completed,Wallet
+S270,ST002,EV105,2026-06-25,08:29:00,08:57:00,35.4,28,7,Fast,Sedan,T Nagar,Completed,Wallet
+S271,ST008,EV238,2026-06-11,14:20:00,15:15:00,29.8,55,15,Normal,Hatchback,Tambaram,Completed,Cash
+S272,ST002,EV101,2026-03-16,19:19:00,20:08:00,36.3,49,0,Fast,Sedan,T Nagar,Completed,Cash
+S273,ST005,EV138,2026-06-12,08:43:00,09:15:00,38.0,32,1,Rapid,MUV,Adyar,Completed,Cash
+S274,ST002,EV030,2026-03-20,09:47:00,10:29:00,26.4,42,8,Rapid,Sedan,T Nagar,Completed,Credit Card
+S275,ST010,EV033,2026-01-14,20:59:00,21:35:00,12.2,36,0,Rapid,SUV,Egmore,Completed,Credit Card
+S276,ST002,EV246,2026-03-14,18:57:00,20:34:00,19.8,97,8,Normal,SUV,T Nagar,Completed,Wallet
+S277,ST003,EV079,2026-01-02,12:50:00,14:40:00,21.5,110,5,Normal,Hatchback,Anna Nagar,Completed,Wallet
+S278,ST009,EV162,2026-01-28,08:38:00,09:50:00,18.4,72,7,Normal,Sedan,Porur,Completed,UPI
+S279,ST010,EV151,2026-05-29,14:37:00,16:05:00,42.0,88,3,Normal,Sedan,Egmore,Completed,Debit Card
+S280,ST003,EV145,2026-04-29,16:05:00,17:30:00,15.3,85,4,Normal,SUV,Anna Nagar,Completed,Credit Card
+S281,ST008,EV012,2026-04-02,04:48:00,05:27:00,31.4,39,4,Fast,Sedan,Tambaram,Completed,UPI
+S282,ST006,EV020,2026-01-27,19:33:00,20:35:00,28.2,62,12,Fast,Sedan,Velachery,Completed,Cash
+S283,ST005,EV059,2026-04-07,22:14:00,23:10:00,25.4,56,6,Fast,SUV,Adyar,Completed,UPI
+S284,ST009,EV152,2026-06-14,11:09:00,12:19:00,23.3,70,7,Normal,SUV,Porur,Completed,Credit Card
+S285,ST007,EV104,2026-01-06,10:08:00,10:35:00,28.3,27,24,Fast,Sedan,OMR,Completed,Cash
+S286,ST010,EV037,2026-06-13,01:46:00,02:24:00,29.4,38,3,Fast,Hatchback,Egmore,Completed,Cash
+S287,ST003,EV221,2026-06-09,18:16:00,20:09:00,12.2,113,3,Normal,Hatchback,Anna Nagar,Completed,Cash
+S288,ST007,EV001,2026-02-08,18:11:00,19:10:00,34.1,59,20,Fast,SUV,OMR,Completed,Wallet
+S289,ST009,EV197,2026-04-18,13:02:00,13:51:00,28.8,49,5,Fast,SUV,Porur,Completed,Credit Card
+S290,ST002,EV093,2026-03-14,18:34:00,19:29:00,13.8,55,12,Normal,Sedan,T Nagar,Completed,UPI
+S291,ST003,EV046,2026-04-20,18:16:00,19:57:00,41.7,101,9,Normal,SUV,Anna Nagar,Completed,Debit Card
+S292,ST009,EV103,2026-05-23,16:19:00,16:40:00,0.8,21,9,Fast,Hatchback,Porur,Failed,Debit Card
+S293,ST009,EV021,2026-06-07,19:45:00,20:40:00,14.7,55,4,Normal,SUV,Porur,Completed,Cash
+S294,ST001,EV154,2026-04-09,21:25:00,22:01:00,25.8,36,0,Fast,SUV,Chennai Central,Completed,Cash
+S295,ST009,EV004,2026-06-28,09:10:00,09:45:00,41.9,35,3,Fast,SUV,Porur,Completed,UPI
+S296,ST002,EV105,2026-05-21,11:53:00,12:35:00,29.4,42,13,Fast,SUV,T Nagar,Completed,Cash
+S297,ST002,EV198,2026-05-24,06:18:00,08:18:00,27.2,120,30,Normal,Sedan,T Nagar,Completed,Credit Card
+S298,ST006,EV138,2026-04-28,18:57:00,19:38:00,22.2,41,1,Fast,Sedan,Velachery,Completed,UPI
+S299,ST005,EV243,2026-03-05,11:25:00,12:25:00,15.7,60,11,Fast,Hatchback,Adyar,Completed,Credit Card
+S300,ST008,EV170,2026-02-21,10:15:00,10:56:00,29.8,41,19,Rapid,Sedan,Tambaram,Completed,Wallet
+S301,ST010,EV131,2026-01-02,19:34:00,19:59:00,25.8,25,4,Rapid,Hatchback,Egmore,Completed,Debit Card
+S302,ST007,EV118,2026-02-26,19:08:00,21:04:00,26.1,116,30,Normal,Hatchback,OMR,Completed,Debit Card
+S303,ST001,EV109,2026-01-04,18:24:00,19:00:00,18.4,36,2,Fast,Sedan,Chennai Central,Completed,Credit Card
+S304,ST007,EV143,2026-06-29,19:23:00,19:42:00,41.3,19,9,Rapid,Sedan,OMR,Completed,Wallet
+S305,ST007,EV077,2026-02-20,08:47:00,10:04:00,14.3,77,14,Normal,Hatchback,OMR,Completed,Debit Card
+S306,ST009,EV239,2026-05-26,05:06:00,06:01:00,30.2,55,3,Fast,Sedan,Porur,Completed,Debit Card
+S307,ST006,EV125,2026-01-06,14:22:00,14:55:00,30.8,33,4,Rapid,MUV,Velachery,Completed,Wallet
+S308,ST002,EV021,2026-04-08,18:29:00,19:34:00,39.7,65,3,Fast,Sedan,T Nagar,Completed,Credit Card
+S309,ST006,EV048,2026-02-28,12:41:00,14:26:00,24.2,105,32,Normal,Sedan,Velachery,Completed,UPI
+S310,ST003,EV196,2026-03-02,18:47:00,19:37:00,13.1,50,3,Fast,Sedan,Anna Nagar,Completed,UPI
+S311,ST002,EV009,2026-03-09,18:05:00,18:44:00,33.6,39,3,Fast,MUV,T Nagar,Completed,Debit Card
+S312,ST006,EV225,2026-05-02,16:55:00,17:28:00,32.3,33,1,Fast,Sedan,Velachery,Completed,Cash
+S313,ST007,EV209,2026-05-15,18:34:00,19:58:00,19.9,84,3,Normal,Sedan,OMR,Completed,Credit Card
+S314,ST006,EV049,2026-03-15,16:00:00,16:44:00,34.5,44,15,Fast,SUV,Velachery,Completed,Wallet
+S315,ST009,EV207,2026-04-22,14:10:00,14:49:00,12.5,39,9,Fast,SUV,Porur,Completed,Debit Card
+S316,ST005,EV126,2026-06-16,19:51:00,20:54:00,19.3,63,5,Normal,Sedan,Adyar,Completed,Credit Card
+S317,ST006,EV056,2026-01-05,08:34:00,10:05:00,32.9,91,5,Normal,MUV,Velachery,Completed,Debit Card
+S318,ST007,EV121,2026-03-21,19:31:00,19:48:00,37.0,17,6,Rapid,SUV,OMR,Completed,Credit Card
+S319,ST004,EV134,2026-03-06,20:53:00,22:19:00,41.2,86,1,Normal,MUV,Guindy,Completed,Credit Card
+S320,ST008,EV171,2026-04-10,18:19:00,18:50:00,13.9,31,3,Rapid,Sedan,Tambaram,Completed,Credit Card
+S321,ST002,EV198,2026-03-02,18:20:00,19:30:00,17.8,70,15,Normal,Hatchback,T Nagar,Completed,UPI
+S322,ST004,EV143,2026-02-10,16:43:00,17:11:00,30.6,28,5,Fast,MUV,Guindy,Completed,Debit Card
+S323,ST008,EV090,2026-02-19,01:24:00,02:24:00,24.0,60,2,Normal,Sedan,Tambaram,Completed,Debit Card
+S324,ST008,EV130,2026-03-12,20:38:00,20:57:00,24.4,19,2,Rapid,SUV,Tambaram,Completed,Wallet
+S325,ST003,EV040,2026-01-05,18:23:00,19:30:00,27.2,67,9,Fast,Sedan,Anna Nagar,Completed,Cash
+S326,ST005,EV009,2026-03-24,14:20:00,15:23:00,40.0,63,1,Normal,SUV,Adyar,Completed,Cash
+S327,ST007,EV120,2026-06-18,16:39:00,17:18:00,33.0,39,31,Fast,Sedan,OMR,Completed,UPI
+S328,ST006,EV133,2026-05-23,19:56:00,20:58:00,26.9,62,5,Normal,SUV,Velachery,Completed,UPI
+S329,ST002,EV171,2026-03-01,17:12:00,18:29:00,27.9,77,5,Normal,Hatchback,T Nagar,Completed,Wallet
+S330,ST002,EV096,2026-02-12,19:35:00,20:50:00,24.2,75,33,Normal,Sedan,T Nagar,Completed,Wallet
+S331,ST007,EV133,2026-03-24,18:36:00,19:24:00,24.5,48,17,Fast,SUV,OMR,Completed,Credit Card
+S332,ST005,EV036,2026-01-02,11:14:00,12:44:00,27.8,90,4,Normal,Sedan,Adyar,Completed,Debit Card
+S333,ST006,EV177,2026-05-30,10:16:00,11:17:00,17.0,61,0,Fast,Sedan,Velachery,Completed,Cash
+S334,ST002,EV198,2026-06-02,18:02:00,18:30:00,34.7,28,29,Fast,SUV,T Nagar,Completed,Credit Card
+S335,ST010,EV101,2026-01-03,18:40:00,19:40:00,28.1,60,2,Normal,Sedan,Egmore,Completed,Wallet
+S336,ST010,EV129,2026-05-28,16:14:00,17:27:00,12.6,73,4,Normal,Hatchback,Egmore,Completed,Wallet
+S337,ST003,EV083,2026-02-04,16:12:00,17:12:00,41.9,60,4,Fast,Hatchback,Anna Nagar,Completed,Cash
+S338,ST002,EV113,2026-01-29,18:27:00,18:36:00,3.5,9,8,Normal,Sedan,T Nagar,Failed,UPI
+S339,ST004,EV079,2026-02-21,18:09:00,18:37:00,40.4,28,1,Fast,MUV,Guindy,Completed,Wallet
+S340,ST008,EV012,2026-01-06,12:47:00,13:47:00,29.9,60,6,Fast,Sedan,Tambaram,Completed,Debit Card
+S341,ST003,EV223,2026-01-16,11:50:00,12:56:00,10.3,66,10,Fast,Sedan,Anna Nagar,Completed,Wallet
+S342,ST004,EV079,2026-04-08,16:45:00,17:51:00,26.0,66,3,Normal,Sedan,Guindy,Completed,Debit Card
+S343,ST008,EV008,2026-04-11,19:01:00,20:34:00,18.8,93,10,Normal,SUV,Tambaram,Completed,Cash
+S344,ST005,EV249,2026-02-27,08:57:00,10:40:00,31.7,103,5,Normal,Sedan,Adyar,Completed,Debit Card
+S345,ST010,EV235,2026-03-26,15:08:00,15:31:00,1.2,23,29,Normal,Sedan,Egmore,Failed,Credit Card
+S346,ST006,EV229,2026-01-18,17:46:00,18:59:00,20.2,73,3,Normal,Sedan,Velachery,Completed,Debit Card
+S347,ST003,EV177,2026-02-18,07:11:00,08:40:00,29.6,89,9,Normal,MUV,Anna Nagar,Completed,Wallet
+S348,ST003,EV057,2026-05-09,20:30:00,20:48:00,7.4,18,1,Fast,SUV,Anna Nagar,Failed,Credit Card
+S349,ST004,EV081,2026-01-17,08:28:00,09:11:00,17.9,43,6,Rapid,SUV,Guindy,Completed,Wallet
+S350,ST010,EV133,2026-05-27,17:33:00,17:50:00,0.3,17,0,Fast,Hatchback,Egmore,Failed,UPI
+S351,ST004,EV024,2026-03-16,15:56:00,17:50:00,19.4,114,0,Normal,Hatchback,Guindy,Completed,Cash
+S352,ST002,EV083,2026-02-16,19:57:00,20:42:00,10.8,45,15,Fast,Sedan,T Nagar,Completed,Credit Card
+S353,ST002,EV086,2026-01-24,07:28:00,08:25:00,40.4,57,3,Fast,Sedan,T Nagar,Completed,Cash
+S354,ST003,EV052,2026-02-11,20:11:00,20:55:00,34.6,44,3,Fast,Sedan,Anna Nagar,Completed,UPI
+S355,ST010,EV154,2026-03-06,00:31:00,01:14:00,25.8,43,1,Rapid,SUV,Egmore,Completed,Cash
+S356,ST001,EV148,2026-03-04,20:17:00,20:45:00,14.7,28,5,Fast,SUV,Chennai Central,Completed,Cash
+S357,ST005,EV117,2026-03-26,21:03:00,22:18:00,29.6,75,15,Normal,MUV,Adyar,Completed,Cash
+S358,ST006,EV085,2026-01-10,07:19:00,08:22:00,27.6,63,2,Normal,MUV,Velachery,Completed,Cash
+S359,ST007,EV135,2026-05-15,09:13:00,10:08:00,32.0,55,10,Fast,Sedan,OMR,Completed,Cash
+S360,ST010,EV007,2026-04-01,21:39:00,22:35:00,15.8,56,25,Fast,SUV,Egmore,Completed,Wallet
+S361,ST002,EV083,2026-02-23,19:26:00,20:48:00,16.4,82,2,Normal,Sedan,T Nagar,Completed,UPI
+S362,ST002,EV124,2026-06-25,12:25:00,13:01:00,20.6,36,13,Fast,SUV,T Nagar,Completed,Credit Card
+S363,ST008,EV176,2026-05-18,21:29:00,22:27:00,28.1,58,5,Fast,SUV,Tambaram,Completed,Debit Card
+S364,ST006,EV201,2026-01-17,22:17:00,23:22:00,37.0,65,4,Fast,Sedan,Velachery,Completed,Debit Card
+S365,ST006,EV234,2026-01-09,11:05:00,11:49:00,26.8,44,7,Fast,Sedan,Velachery,Completed,UPI
+S366,ST008,EV241,2026-05-10,02:30:00,03:08:00,38.0,38,11,Rapid,Sedan,Tambaram,Completed,Cash
+S367,ST003,EV027,2026-02-22,19:29:00,20:38:00,39.8,69,5,Normal,MUV,Anna Nagar,Completed,Cash
+S368,ST005,EV030,2026-01-06,17:19:00,17:56:00,18.9,37,2,Fast,Sedan,Adyar,Completed,UPI
+S369,ST010,EV229,2026-05-24,16:13:00,16:47:00,32.5,34,2,Fast,SUV,Egmore,Completed,Debit Card
+S370,ST009,EV177,2026-04-24,05:01:00,05:50:00,12.8,49,8,Fast,Hatchback,Porur,Completed,Wallet
+S371,ST010,EV182,2026-04-02,12:52:00,13:57:00,14.2,65,5,Normal,Hatchback,Egmore,Completed,Wallet
+S372,ST008,EV122,2026-03-01,22:09:00,22:29:00,32.4,20,5,Rapid,SUV,Tambaram,Completed,UPI
+S373,ST006,EV078,2026-05-03,16:10:00,17:21:00,23.0,71,7,Normal,Sedan,Velachery,Completed,Cash
+S374,ST008,EV202,2026-04-13,17:15:00,18:04:00,20.9,49,15,Fast,SUV,Tambaram,Completed,Debit Card
+S375,ST009,EV245,2026-06-27,10:42:00,11:14:00,29.1,32,14,Fast,Hatchback,Porur,Completed,Wallet
+S376,ST002,EV163,2026-06-03,07:52:00,08:48:00,31.1,56,9,Fast,Hatchback,T Nagar,Completed,UPI
+S377,ST003,EV236,2026-06-19,08:34:00,10:26:00,31.8,112,10,Normal,SUV,Anna Nagar,Completed,Wallet
+S378,ST006,EV092,2026-01-23,17:39:00,17:55:00,21.8,16,6,Rapid,SUV,Velachery,Completed,UPI
+S379,ST005,EV216,2026-01-08,10:44:00,11:34:00,23.9,50,1,Fast,SUV,Adyar,Completed,Debit Card
+S380,ST007,EV107,2026-02-09,11:55:00,13:01:00,14.6,66,3,Fast,Sedan,OMR,Completed,Wallet
+S381,ST010,EV061,2026-04-19,18:29:00,19:18:00,17.2,49,15,Fast,SUV,Egmore,Completed,Cash
+S382,ST005,EV220,2026-04-16,21:36:00,23:32:00,13.6,116,7,Normal,MUV,Adyar,Completed,Debit Card
+S383,ST008,EV200,2026-05-13,06:56:00,08:04:00,27.3,68,4,Fast,Sedan,Tambaram,Completed,UPI
+S384,ST008,EV016,2026-04-27,16:30:00,17:13:00,15.4,43,15,Fast,Sedan,Tambaram,Completed,Wallet
+S385,ST010,EV071,2026-02-13,17:42:00,18:12:00,12.6,30,4,Rapid,Hatchback,Egmore,Completed,Debit Card
+S386,ST001,EV009,2026-01-29,18:58:00,19:46:00,15.6,48,5,Fast,Sedan,Chennai Central,Completed,Debit Card
+S387,ST002,EV014,2026-02-07,18:52:00,20:39:00,31.1,107,8,Normal,SUV,T Nagar,Completed,Debit Card
+S388,ST002,EV074,2026-01-14,08:25:00,09:14:00,32.6,49,3,Fast,SUV,T Nagar,Completed,Wallet
+S389,ST007,EV168,2026-06-23,12:33:00,13:25:00,39.4,52,2,Fast,Sedan,OMR,Completed,Cash
+S390,ST007,EV018,2026-04-29,19:47:00,21:06:00,31.7,79,1,Normal,Hatchback,OMR,Completed,UPI
+S391,ST007,EV214,2026-01-26,17:43:00,19:14:00,11.1,91,17,Normal,Sedan,OMR,Completed,Credit Card
+S392,ST010,EV120,2026-06-13,07:07:00,08:50:00,38.8,103,8,Normal,SUV,Egmore,Completed,UPI
+S393,ST008,EV046,2026-03-12,19:44:00,19:57:00,2.1,13,2,Rapid,Hatchback,Tambaram,Failed,Wallet
+S394,ST002,EV184,2026-05-06,23:12:00,23:43:00,27.3,31,9,Fast,Sedan,T Nagar,Completed,Debit Card
+S395,ST002,EV232,2026-01-09,06:36:00,07:32:00,30.9,56,0,Fast,Hatchback,T Nagar,Completed,Wallet
+S396,ST010,EV092,2026-01-01,17:49:00,18:48:00,10.1,59,13,Fast,SUV,Egmore,Completed,Debit Card
+S397,ST005,EV179,2026-04-13,05:41:00,05:55:00,5.3,14,9,Normal,SUV,Adyar,Failed,Wallet
+S398,ST002,EV139,2026-06-11,18:31:00,19:50:00,16.2,79,5,Normal,SUV,T Nagar,Completed,Debit Card
+S399,ST008,EV171,2026-05-17,22:51:00,23:50:00,20.8,59,5,Normal,MUV,Tambaram,Completed,Cash
+S400,ST008,EV063,2026-06-23,20:34:00,21:38:00,14.5,64,31,Normal,SUV,Tambaram,Completed,Credit Card
+S401,ST001,EV057,2026-02-14,18:57:00,20:50:00,36.7,113,0,Normal,Hatchback,Chennai Central,Completed,UPI
+S402,ST004,EV086,2026-04-20,12:53:00,13:29:00,28.4,36,11,Rapid,Hatchback,Guindy,Completed,UPI
+S403,ST002,EV097,2026-03-12,08:26:00,09:42:00,39.6,76,8,Normal,SUV,T Nagar,Completed,Credit Card
+S404,ST001,EV116,2026-05-05,06:00:00,07:31:00,35.8,91,3,Normal,Sedan,Chennai Central,Completed,Wallet
+S405,ST004,EV136,2026-02-14,18:02:00,19:07:00,35.0,65,12,Fast,Hatchback,Guindy,Completed,UPI
+S406,ST010,EV012,2026-04-03,20:34:00,21:16:00,16.2,42,1,Fast,SUV,Egmore,Completed,UPI
+S407,ST006,EV030,2026-03-14,09:16:00,11:09:00,33.7,113,8,Normal,Hatchback,Velachery,Completed,UPI
+S408,ST004,EV097,2026-04-24,17:20:00,18:56:00,13.5,96,7,Normal,Hatchback,Guindy,Completed,Credit Card
+S409,ST002,EV033,2026-05-01,17:03:00,17:30:00,22.0,27,27,Rapid,Sedan,T Nagar,Completed,UPI
+S410,ST010,EV142,2026-01-16,11:07:00,11:29:00,38.4,22,35,Rapid,SUV,Egmore,Completed,Credit Card
+S411,ST002,EV229,2026-04-16,20:31:00,20:54:00,10.5,23,3,Rapid,Sedan,T Nagar,Completed,Cash
+S412,ST003,EV143,2026-05-27,21:26:00,21:42:00,23.6,16,3,Rapid,Sedan,Anna Nagar,Completed,UPI
+S413,ST007,EV117,2026-02-25,08:18:00,09:15:00,19.8,57,13,Normal,MUV,OMR,Completed,Wallet
+S414,ST003,EV070,2026-06-30,14:50:00,15:07:00,22.3,17,5,Rapid,SUV,Anna Nagar,Completed,Cash
+S415,ST009,EV159,2026-05-28,19:50:00,20:18:00,40.3,28,5,Fast,SUV,Porur,Completed,UPI
+S416,ST006,EV193,2026-04-04,08:35:00,09:08:00,17.6,33,13,Fast,SUV,Velachery,Completed,Credit Card
+S417,ST006,EV212,2026-04-01,21:32:00,22:20:00,24.5,48,4,Fast,Sedan,Velachery,Completed,Cash
+S418,ST005,EV245,2026-04-26,18:51:00,19:28:00,38.3,37,7,Fast,Hatchback,Adyar,Completed,UPI
+S419,ST002,EV108,2026-02-12,11:44:00,13:05:00,30.1,81,33,Normal,Sedan,T Nagar,Completed,Wallet
+S420,ST001,EV216,2026-03-16,09:01:00,09:34:00,21.0,33,11,Rapid,Sedan,Chennai Central,Completed,Cash
+S421,ST008,EV043,2026-04-28,11:08:00,11:38:00,21.9,30,2,Rapid,Sedan,Tambaram,Completed,Cash
+S422,ST003,EV053,2026-05-18,11:11:00,11:46:00,13.7,35,2,Fast,Hatchback,Anna Nagar,Completed,Cash
+S423,ST001,EV002,2026-06-20,12:22:00,12:31:00,7.4,9,12,Normal,SUV,Chennai Central,Failed,Cash
+S424,ST009,EV036,2026-03-26,18:18:00,19:19:00,39.0,61,11,Fast,Sedan,Porur,Completed,Cash
+S425,ST002,EV072,2026-03-20,02:39:00,03:24:00,29.5,45,1,Fast,SUV,T Nagar,Completed,Credit Card
+S426,ST001,EV093,2026-01-22,17:28:00,18:18:00,25.7,50,32,Fast,MUV,Chennai Central,Completed,Wallet
+S427,ST003,EV207,2026-04-20,13:23:00,14:57:00,28.0,94,13,Normal,Sedan,Anna Nagar,Completed,Wallet
+S428,ST007,EV070,2026-02-05,20:38:00,22:33:00,12.1,115,4,Normal,Sedan,OMR,Completed,Wallet
+S429,ST003,EV119,2026-05-23,16:36:00,17:25:00,27.7,49,0,Fast,Sedan,Anna Nagar,Completed,Credit Card
+S430,ST001,EV063,2026-01-01,08:19:00,08:54:00,31.3,35,2,Rapid,Hatchback,Chennai Central,Completed,UPI
+S431,ST002,EV005,2026-03-12,16:04:00,17:05:00,37.8,61,5,Fast,SUV,T Nagar,Completed,Debit Card
+S432,ST003,EV240,2026-05-29,06:20:00,06:55:00,18.7,35,3,Fast,Hatchback,Anna Nagar,Completed,UPI
+S433,ST009,EV025,2026-02-19,19:11:00,20:10:00,37.9,59,10,Fast,SUV,Porur,Completed,Cash
+S434,ST010,EV049,2026-04-01,20:00:00,21:57:00,39.5,117,1,Normal,Sedan,Egmore,Completed,Cash
+S435,ST010,EV093,2026-06-26,20:33:00,21:24:00,39.3,51,0,Fast,Hatchback,Egmore,Completed,Credit Card
+S436,ST008,EV021,2026-06-02,17:21:00,18:31:00,37.4,70,1,Normal,Sedan,Tambaram,Completed,Wallet
+S437,ST002,EV017,2026-01-20,01:30:00,01:57:00,31.1,27,4,Fast,Sedan,T Nagar,Completed,Debit Card
+S438,ST001,EV042,2026-01-25,19:58:00,20:34:00,21.2,36,24,Fast,SUV,Chennai Central,Completed,Cash
+S439,ST010,EV237,2026-03-03,16:04:00,17:00:00,32.9,56,2,Normal,SUV,Egmore,Completed,Credit Card
+S440,ST009,EV195,2026-05-02,13:37:00,14:45:00,21.4,68,3,Normal,Hatchback,Porur,Completed,Debit Card
+S441,ST002,EV189,2026-04-30,07:08:00,08:08:00,11.3,60,2,Fast,SUV,T Nagar,Completed,Debit Card
+S442,ST008,EV134,2026-02-27,17:18:00,18:03:00,31.7,45,6,Rapid,SUV,Tambaram,Completed,UPI
+S443,ST002,EV060,2026-02-06,14:44:00,15:13:00,41.2,29,9,Fast,Sedan,T Nagar,Completed,Wallet
+S444,ST008,EV028,2026-03-13,19:49:00,20:36:00,31.3,47,3,Fast,Sedan,Tambaram,Completed,UPI
+S445,ST005,EV160,2026-05-06,16:40:00,17:10:00,31.7,30,12,Rapid,Sedan,Adyar,Completed,Cash
+S446,ST002,EV140,2026-01-20,18:33:00,19:16:00,25.9,43,4,Fast,Hatchback,T Nagar,Completed,UPI
+S447,ST001,EV111,2026-04-21,20:07:00,21:50:00,11.2,103,14,Normal,Sedan,Chennai Central,Completed,Credit Card
+S448,ST005,EV097,2026-04-10,16:07:00,17:02:00,37.3,55,4,Fast,SUV,Adyar,Completed,Cash
+S449,ST006,EV092,2026-03-14,12:01:00,12:48:00,33.7,47,0,Fast,Sedan,Velachery,Completed,Wallet
+S450,ST006,EV118,2026-01-15,18:15:00,19:20:00,37.8,65,0,Normal,Sedan,Velachery,Completed,Wallet
+S451,ST010,EV173,2026-05-12,21:17:00,22:14:00,28.3,57,15,Normal,SUV,Egmore,Completed,Credit Card
+S452,ST006,EV077,2026-05-08,16:48:00,17:36:00,16.5,48,5,Fast,Sedan,Velachery,Completed,Cash
+S453,ST007,EV167,2026-02-27,18:05:00,18:47:00,28.1,42,4,Fast,SUV,OMR,Completed,Debit Card
+S454,ST009,EV048,2026-03-18,15:34:00,17:01:00,24.5,87,8,Normal,SUV,Porur,Completed,Cash
+S455,ST008,EV192,2026-02-24,18:52:00,19:53:00,30.1,61,4,Fast,SUV,Tambaram,Completed,Debit Card
+S456,ST007,EV039,2026-04-16,12:53:00,13:34:00,19.2,41,1,Rapid,SUV,OMR,Completed,Credit Card
+S457,ST001,EV206,2026-03-04,19:19:00,20:11:00,39.0,52,1,Fast,SUV,Chennai Central,Completed,Debit Card
+S458,ST009,EV105,2026-02-15,18:02:00,18:44:00,38.7,42,15,Rapid,SUV,Porur,Completed,Debit Card
+S459,ST002,EV154,2026-04-12,22:46:00,23:18:00,31.3,32,4,Fast,Sedan,T Nagar,Completed,UPI
+S460,ST006,EV151,2026-03-26,20:47:00,22:12:00,14.6,85,1,Normal,Hatchback,Velachery,Completed,UPI
+S461,ST008,EV006,2026-05-17,13:07:00,14:33:00,35.1,86,11,Normal,SUV,Tambaram,Completed,Cash
+S462,ST001,EV114,2026-06-19,19:03:00,19:44:00,22.3,41,5,Fast,Hatchback,Chennai Central,Completed,Wallet
+S463,ST001,EV105,2026-04-11,21:58:00,23:23:00,37.5,85,13,Normal,Sedan,Chennai Central,Completed,UPI
+S464,ST005,EV155,2026-01-21,20:31:00,21:41:00,38.1,70,0,Fast,SUV,Adyar,Completed,Cash
+S465,ST006,EV064,2026-04-27,18:48:00,20:39:00,10.1,111,10,Normal,SUV,Velachery,Completed,Cash
+S466,ST003,EV101,2026-06-02,18:50:00,19:10:00,32.0,20,2,Rapid,SUV,Anna Nagar,Completed,Wallet
+S467,ST010,EV067,2026-02-27,01:01:00,01:30:00,16.3,29,5,Rapid,SUV,Egmore,Completed,Credit Card
+S468,ST002,EV201,2026-04-05,08:36:00,10:26:00,31.6,110,0,Normal,Hatchback,T Nagar,Completed,Debit Card
+S469,ST005,EV159,2026-05-07,14:27:00,14:48:00,23.4,21,3,Rapid,SUV,Adyar,Completed,Wallet
+S470,ST004,EV025,2026-04-05,17:41:00,18:26:00,22.7,45,12,Fast,Sedan,Guindy,Completed,Cash
+S471,ST001,EV229,2026-01-14,12:15:00,12:40:00,26.1,25,10,Fast,SUV,Chennai Central,Completed,Cash
+S472,ST001,EV033,2026-05-29,08:10:00,08:43:00,20.2,33,4,Fast,MUV,Chennai Central,Completed,Wallet
+S473,ST005,EV219,2026-04-03,21:18:00,21:43:00,23.9,25,11,Rapid,Sedan,Adyar,Completed,Wallet
+S474,ST001,EV125,2026-02-18,08:14:00,09:29:00,24.0,75,3,Normal,SUV,Chennai Central,Completed,Wallet
+S475,ST008,EV055,2026-01-29,20:55:00,22:16:00,36.7,81,14,Normal,Sedan,Tambaram,Completed,Cash
+S476,ST001,EV244,2026-05-15,19:11:00,21:09:00,38.4,118,0,Normal,Sedan,Chennai Central,Completed,UPI
+S477,ST006,EV244,2026-02-09,02:29:00,03:34:00,18.6,65,26,Fast,Hatchback,Velachery,Completed,Wallet
+S478,ST006,EV248,2026-05-26,07:55:00,09:31:00,12.3,96,4,Normal,SUV,Velachery,Completed,Wallet
+S479,ST002,EV214,2026-01-06,20:10:00,21:24:00,25.7,74,3,Normal,SUV,T Nagar,Completed,Debit Card
+S480,ST009,EV011,2026-02-21,16:56:00,18:45:00,23.5,109,2,Normal,Sedan,Porur,Completed,Cash
+S481,ST006,EV123,2026-04-29,18:41:00,19:39:00,30.7,58,0,Fast,Sedan,Velachery,Completed,Debit Card
+S482,ST003,EV119,2026-02-02,18:19:00,19:20:00,27.6,61,0,Fast,SUV,Anna Nagar,Completed,Cash
+S483,ST005,EV081,2026-04-01,10:05:00,10:41:00,15.8,36,3,Fast,Sedan,Adyar,Completed,Cash
+S484,ST008,EV102,2026-06-21,15:51:00,17:09:00,12.5,78,4,Normal,MUV,Tambaram,Completed,UPI
+S485,ST001,EV035,2026-02-13,18:29:00,19:13:00,36.0,44,11,Fast,MUV,Chennai Central,Completed,UPI
+S486,ST004,EV119,2026-01-29,20:44:00,21:19:00,14.6,35,1,Rapid,MUV,Guindy,Completed,Credit Card
+S487,ST008,EV214,2026-04-19,02:10:00,02:40:00,10.6,30,3,Rapid,Hatchback,Tambaram,Completed,Wallet
+S488,ST001,EV132,2026-03-27,00:40:00,01:36:00,28.5,56,5,Fast,SUV,Chennai Central,Completed,Cash
+S489,ST010,EV160,2026-06-23,21:55:00,22:47:00,20.1,52,10,Fast,Hatchback,Egmore,Completed,Debit Card
+S490,ST008,EV120,2026-06-28,15:10:00,16:49:00,26.2,99,11,Normal,Sedan,Tambaram,Completed,Credit Card
+S491,ST005,EV171,2026-04-10,22:53:00,23:33:00,41.1,40,1,Rapid,Hatchback,Adyar,Completed,Wallet
+S492,ST003,EV041,2026-02-14,09:38:00,10:22:00,16.7,44,6,Fast,Hatchback,Anna Nagar,Completed,Credit Card
+S493,ST009,EV230,2026-01-09,20:21:00,21:31:00,25.6,70,11,Normal,SUV,Porur,Completed,Credit Card
+S494,ST009,EV162,2026-06-04,18:45:00,20:38:00,35.0,113,4,Normal,MUV,Porur,Completed,UPI
+S495,ST004,EV107,2026-04-03,08:18:00,08:49:00,30.7,31,8,Fast,Hatchback,Guindy,Completed,UPI
+S496,ST004,EV110,2026-05-02,13:32:00,15:20:00,31.3,108,14,Normal,Sedan,Guindy,Completed,Wallet
+S497,ST007,EV198,2026-04-28,22:33:00,23:26:00,34.6,53,5,Fast,SUV,OMR,Completed,Credit Card
+S498,ST007,EV142,2026-01-16,14:02:00,15:07:00,35.6,65,4,Fast,SUV,OMR,Completed,Debit Card
+S499,ST006,EV179,2026-03-30,00:17:00,00:44:00,24.3,27,14,Rapid,SUV,Velachery,Completed,Debit Card
+S500,ST007,EV163,2026-02-20,20:05:00,21:16:00,19.1,71,0,Normal,Sedan,OMR,Completed,Credit Card
+S501,ST001,EV013,2026-01-08,21:34:00,22:26:00,13.5,52,11,Fast,Sedan,Chennai Central,Completed,UPI
+S502,ST008,EV064,2026-03-18,17:00:00,17:47:00,19.1,47,15,Fast,MUV,Tambaram,Completed,UPI
+S503,ST006,EV055,2026-05-13,17:52:00,19:02:00,36.5,70,0,Fast,SUV,Velachery,Completed,Wallet
+S504,ST002,EV042,2026-04-05,18:25:00,19:06:00,26.0,41,13,Fast,SUV,T Nagar,Completed,Credit Card
+S505,ST009,EV029,2026-02-02,16:29:00,16:47:00,4.8,18,0,Normal,Hatchback,Porur,Failed,UPI
+S506,ST006,EV079,2026-05-27,11:33:00,13:15:00,25.5,102,1,Normal,SUV,Velachery,Completed,Debit Card
+S507,ST004,EV122,2026-02-16,20:31:00,21:34:00,25.4,63,30,Normal,SUV,Guindy,Completed,Cash
+S508,ST003,EV087,2026-02-05,16:29:00,17:14:00,35.6,45,5,Fast,Hatchback,Anna Nagar,Completed,Cash
+S509,ST001,EV022,2026-06-21,21:47:00,23:03:00,28.3,76,10,Normal,Sedan,Chennai Central,Completed,Credit Card
+S510,ST010,EV053,2026-05-19,17:03:00,17:46:00,10.6,43,21,Rapid,SUV,Egmore,Completed,Credit Card
+S511,ST010,EV082,2026-04-24,06:34:00,07:30:00,39.9,56,2,Fast,SUV,Egmore,Completed,Wallet
+S512,ST005,EV015,2026-01-24,07:06:00,07:33:00,1.5,27,2,Fast,Sedan,Adyar,Failed,Debit Card
+S513,ST007,EV099,2026-01-26,12:26:00,12:47:00,17.7,21,4,Rapid,Sedan,OMR,Completed,UPI
+S514,ST005,EV064,2026-01-16,12:35:00,14:22:00,39.2,107,33,Normal,SUV,Adyar,Completed,Cash
+S515,ST003,EV001,2026-03-19,17:28:00,17:34:00,4.4,6,33,Normal,SUV,Anna Nagar,Failed,Wallet
+S516,ST010,EV216,2026-03-16,18:10:00,20:06:00,18.0,116,12,Normal,MUV,Egmore,Completed,Cash
+S517,ST005,EV130,2026-01-12,08:34:00,09:43:00,36.6,69,14,Fast,Sedan,Adyar,Completed,Debit Card
+S518,ST006,EV237,2026-06-12,10:48:00,11:34:00,24.7,46,16,Fast,Sedan,Velachery,Completed,UPI
+S519,ST010,EV172,2026-05-02,00:00:00,00:50:00,12.6,50,5,Fast,SUV,Egmore,Completed,Wallet
+S520,ST002,EV195,2026-04-01,22:24:00,23:33:00,14.0,69,2,Fast,SUV,T Nagar,Completed,Debit Card
+S521,ST006,EV054,2026-02-19,07:39:00,08:18:00,41.0,39,31,Fast,Hatchback,Velachery,Completed,UPI
+S522,ST004,EV191,2026-06-13,14:55:00,16:11:00,31.1,76,4,Normal,SUV,Guindy,Completed,UPI
+S523,ST003,EV117,2026-03-08,21:54:00,23:24:00,31.7,90,5,Normal,SUV,Anna Nagar,Completed,UPI
+S524,ST007,EV227,2026-06-14,18:41:00,20:31:00,13.9,110,4,Normal,MUV,OMR,Completed,Credit Card
+S525,ST001,EV051,2026-03-13,21:34:00,22:53:00,38.2,79,29,Normal,Sedan,Chennai Central,Completed,Credit Card
+S526,ST006,EV088,2026-03-21,06:40:00,07:38:00,30.0,58,2,Normal,SUV,Velachery,Completed,UPI
+S527,ST006,EV178,2026-05-14,19:04:00,20:09:00,28.5,65,0,Fast,SUV,Velachery,Completed,UPI
+S528,ST003,EV159,2026-01-16,21:28:00,23:18:00,31.7,110,6,Normal,SUV,Anna Nagar,Completed,Wallet
+S529,ST004,EV028,2026-06-03,19:39:00,21:28:00,13.2,109,5,Normal,SUV,Guindy,Completed,UPI
+S530,ST001,EV205,2026-06-02,19:37:00,20:42:00,18.2,65,3,Fast,Sedan,Chennai Central,Completed,UPI
+S531,ST001,EV095,2026-02-02,12:27:00,13:11:00,38.3,44,1,Fast,Hatchback,Chennai Central,Completed,UPI
+S532,ST009,EV178,2026-05-31,18:09:00,19:10:00,16.3,61,1,Normal,SUV,Porur,Completed,Wallet
+S533,ST010,EV058,2026-06-27,12:37:00,13:28:00,15.2,51,3,Fast,Sedan,Egmore,Completed,Credit Card
+S534,ST008,EV030,2026-06-09,09:30:00,10:19:00,22.8,49,0,Fast,MUV,Tambaram,Completed,Credit Card
+S535,ST005,EV046,2026-04-23,09:37:00,09:58:00,19.1,21,1,Rapid,SUV,Adyar,Completed,Credit Card
+S536,ST001,EV208,2026-02-15,20:58:00,22:10:00,35.2,72,0,Normal,Hatchback,Chennai Central,Completed,Debit Card
+S537,ST003,EV082,2026-05-15,22:39:00,22:58:00,38.2,19,1,Rapid,MUV,Anna Nagar,Completed,Cash
+S538,ST007,EV187,2026-06-12,10:02:00,10:13:00,7.1,11,10,Fast,SUV,OMR,Failed,UPI
+S539,ST008,EV245,2026-06-19,18:10:00,18:58:00,26.6,48,1,Fast,Hatchback,Tambaram,Completed,Wallet
+S540,ST008,EV097,2026-03-10,17:40:00,18:02:00,38.6,22,3,Rapid,SUV,Tambaram,Completed,Cash
+S541,ST003,EV120,2026-04-06,10:05:00,11:56:00,17.4,111,13,Normal,Sedan,Anna Nagar,Completed,Wallet
+S542,ST007,EV165,2026-04-05,20:20:00,22:11:00,30.7,111,7,Normal,Sedan,OMR,Completed,UPI
+S543,ST005,EV184,2026-02-28,07:04:00,07:33:00,8.0,29,10,Normal,SUV,Adyar,Failed,Cash
+S544,ST005,EV059,2026-01-03,19:18:00,19:35:00,7.6,17,6,Fast,Hatchback,Adyar,Failed,Credit Card
+S545,ST004,EV143,2026-05-02,10:37:00,11:23:00,12.7,46,1,Fast,Hatchback,Guindy,Completed,UPI
+S546,ST006,EV200,2026-02-05,17:08:00,19:06:00,21.3,118,12,Normal,Hatchback,Velachery,Completed,Cash
+S547,ST005,EV017,2026-03-25,17:36:00,17:53:00,1.6,17,15,Fast,MUV,Adyar,Failed,Cash
+S548,ST007,EV007,2026-02-18,16:21:00,16:51:00,13.3,30,8,Fast,SUV,OMR,Completed,Credit Card
+S549,ST004,EV041,2026-01-18,21:24:00,22:27:00,21.8,63,8,Normal,Sedan,Guindy,Completed,UPI
+S550,ST003,EV151,2026-05-18,15:47:00,17:08:00,16.6,81,13,Normal,MUV,Anna Nagar,Completed,Credit Card
+S551,ST009,EV148,2026-06-25,16:12:00,17:15:00,35.8,63,11,Normal,Sedan,Porur,Completed,UPI
+S552,ST002,EV111,2026-03-15,18:58:00,19:48:00,36.3,50,1,Fast,Hatchback,T Nagar,Completed,Wallet
+S553,ST007,EV186,2026-06-18,08:36:00,09:36:00,37.9,60,14,Normal,Hatchback,OMR,Completed,Credit Card
+S554,ST008,EV119,2026-04-16,23:35:00,00:43:00,34.9,68,3,Normal,SUV,Tambaram,Completed,UPI
+S555,ST002,EV125,2026-06-13,18:47:00,19:24:00,11.2,37,2,Fast,Sedan,T Nagar,Completed,Wallet
+S556,ST002,EV190,2026-01-22,17:15:00,17:57:00,15.2,42,0,Fast,SUV,T Nagar,Completed,Wallet
+S557,ST003,EV163,2026-01-20,18:00:00,18:36:00,32.9,36,5,Fast,Sedan,Anna Nagar,Completed,Cash
+S558,ST002,EV004,2026-04-10,18:28:00,20:11:00,18.0,103,1,Normal,Sedan,T Nagar,Completed,Debit Card
+S559,ST004,EV054,2026-06-24,18:14:00,18:30:00,23.3,16,11,Rapid,Sedan,Guindy,Completed,Cash
+S560,ST007,EV072,2026-04-20,07:13:00,08:09:00,20.1,56,3,Normal,Sedan,OMR,Completed,Cash
+S561,ST006,EV162,2026-01-12,06:13:00,08:11:00,27.2,118,24,Normal,Hatchback,Velachery,Completed,Wallet
+S562,ST003,EV129,2026-03-27,08:48:00,09:13:00,10.6,25,4,Rapid,Sedan,Anna Nagar,Completed,Cash
+S563,ST001,EV053,2026-03-01,01:48:00,02:22:00,12.5,34,1,Rapid,Sedan,Chennai Central,Completed,UPI
+S564,ST004,EV007,2026-06-03,23:28:00,00:13:00,35.2,45,14,Fast,Sedan,Guindy,Completed,Credit Card
+S565,ST006,EV002,2026-03-29,10:34:00,12:00:00,33.0,86,4,Normal,MUV,Velachery,Completed,UPI
+S566,ST008,EV120,2026-01-18,22:03:00,22:36:00,15.6,33,4,Fast,Sedan,Tambaram,Completed,Debit Card
+S567,ST003,EV113,2026-02-20,10:11:00,11:16:00,18.7,65,3,Fast,Sedan,Anna Nagar,Completed,Wallet
+S568,ST009,EV045,2026-06-06,19:48:00,21:44:00,22.2,116,0,Normal,MUV,Porur,Completed,Debit Card
+S569,ST007,EV187,2026-04-29,12:18:00,13:22:00,32.9,64,1,Normal,SUV,OMR,Completed,Debit Card
+S570,ST008,EV239,2026-04-14,21:25:00,22:00:00,41.6,35,17,Rapid,SUV,Tambaram,Completed,Cash
+S571,ST003,EV189,2026-02-19,19:16:00,20:13:00,25.6,57,11,Fast,Hatchback,Anna Nagar,Completed,Credit Card
+S572,ST004,EV064,2026-05-03,03:52:00,04:50:00,30.7,58,30,Normal,Hatchback,Guindy,Completed,Cash
+S573,ST010,EV110,2026-06-19,20:00:00,21:44:00,28.8,104,14,Normal,Sedan,Egmore,Completed,Debit Card
+S574,ST005,EV102,2026-05-09,22:42:00,23:00:00,30.4,18,8,Rapid,SUV,Adyar,Completed,Debit Card
+S575,ST001,EV035,2026-02-13,20:00:00,21:48:00,30.9,108,5,Normal,Hatchback,Chennai Central,Completed,Credit Card
+S576,ST008,EV028,2026-02-16,16:07:00,16:44:00,34.0,37,1,Fast,Hatchback,Tambaram,Completed,Credit Card
+S577,ST002,EV011,2026-03-17,06:07:00,06:37:00,5.3,30,0,Normal,Sedan,T Nagar,Failed,UPI
+S578,ST004,EV081,2026-05-14,19:24:00,20:20:00,34.2,56,4,Fast,MUV,Guindy,Completed,Credit Card
+S579,ST006,EV136,2026-06-20,14:39:00,16:16:00,24.6,97,5,Normal,SUV,Velachery,Completed,Debit Card
+S580,ST004,EV249,2026-04-05,15:43:00,16:50:00,10.1,67,11,Fast,SUV,Guindy,Completed,Debit Card
+S581,ST008,EV037,2026-03-01,18:25:00,19:17:00,39.8,52,3,Fast,Hatchback,Tambaram,Completed,Cash
+S582,ST010,EV193,2026-05-10,03:31:00,04:06:00,24.3,35,0,Fast,Sedan,Egmore,Completed,UPI
+S583,ST002,EV163,2026-04-22,23:01:00,00:45:00,33.0,104,13,Normal,MUV,T Nagar,Completed,Wallet
+S584,ST002,EV060,2026-06-27,12:14:00,12:39:00,22.1,25,33,Rapid,Hatchback,T Nagar,Completed,Credit Card
+S585,ST005,EV152,2026-01-30,11:07:00,12:26:00,21.8,79,12,Normal,Hatchback,Adyar,Completed,Cash
+S586,ST004,EV081,2026-04-10,23:20:00,00:18:00,29.3,58,1,Fast,Hatchback,Guindy,Completed,Credit Card
+S587,ST005,EV123,2026-02-26,16:29:00,17:28:00,19.9,59,24,Normal,Sedan,Adyar,Completed,Credit Card
+S588,ST008,EV077,2026-03-16,19:24:00,20:38:00,37.1,74,6,Normal,Hatchback,Tambaram,Completed,Credit Card
+S589,ST001,EV025,2026-05-21,14:27:00,15:17:00,26.9,50,10,Fast,MUV,Chennai Central,Completed,Credit Card
+S590,ST006,EV206,2026-05-29,20:03:00,21:09:00,28.5,66,13,Fast,Hatchback,Velachery,Completed,Credit Card
+S591,ST001,EV031,2026-04-03,19:36:00,19:42:00,1.4,6,5,Normal,Hatchback,Chennai Central,Failed,Cash
+S592,ST006,EV178,2026-06-01,15:09:00,15:41:00,22.7,32,15,Fast,SUV,Velachery,Completed,UPI
+S593,ST008,EV147,2026-06-16,14:40:00,15:12:00,13.9,32,5,Fast,SUV,Tambaram,Completed,Wallet
+S594,ST005,EV006,2026-06-27,19:50:00,20:34:00,14.0,44,2,Fast,SUV,Adyar,Completed,Wallet
+S595,ST009,EV115,2026-05-18,19:33:00,20:11:00,31.1,38,8,Fast,SUV,Porur,Completed,Debit Card
+S596,ST002,EV242,2026-01-11,07:13:00,07:40:00,41.4,27,27,Fast,Sedan,T Nagar,Completed,UPI
+S597,ST004,EV177,2026-03-18,05:33:00,06:06:00,25.7,33,14,Rapid,Sedan,Guindy,Completed,UPI
+S598,ST001,EV141,2026-03-02,04:09:00,05:21:00,16.9,72,10,Normal,Hatchback,Chennai Central,Completed,Debit Card
+S599,ST005,EV163,2026-04-08,18:10:00,19:37:00,40.1,87,1,Normal,Sedan,Adyar,Completed,Credit Card
+S600,ST006,EV029,2026-05-25,18:52:00,19:37:00,23.9,45,0,Fast,Sedan,Velachery,Completed,Cash
+S601,ST007,EV201,2026-01-17,12:05:00,12:13:00,3.0,8,2,Normal,Sedan,OMR,Failed,UPI
+S602,ST003,EV044,2026-05-15,19:19:00,20:17:00,32.4,58,14,Fast,Hatchback,Anna Nagar,Completed,Debit Card
+S603,ST007,EV146,2026-02-16,13:47:00,14:42:00,14.1,55,14,Fast,Hatchback,OMR,Completed,Debit Card
+S604,ST001,EV226,2026-06-13,22:45:00,23:12:00,4.2,27,2,Fast,Hatchback,Chennai Central,Failed,Credit Card
+S605,ST005,EV074,2026-06-12,20:19:00,21:25:00,12.5,66,7,Normal,Sedan,Adyar,Completed,Cash
+S606,ST008,EV234,2026-01-03,22:27:00,23:22:00,26.5,55,5,Fast,MUV,Tambaram,Completed,UPI
+S607,ST007,EV035,2026-06-29,17:22:00,18:22:00,40.9,60,5,Normal,Hatchback,OMR,Completed,Cash
+S608,ST006,EV001,2026-01-14,15:24:00,17:02:00,36.6,98,0,Normal,MUV,Velachery,Completed,Cash
+S609,ST007,EV077,2026-02-25,21:59:00,22:42:00,29.8,43,3,Rapid,SUV,OMR,Completed,Debit Card
+S610,ST002,EV002,2026-01-02,13:46:00,14:53:00,16.3,67,4,Normal,SUV,T Nagar,Completed,Credit Card
+S611,ST005,EV002,2026-02-27,16:23:00,17:41:00,18.6,78,3,Normal,SUV,Adyar,Completed,Debit Card
+S612,ST004,EV205,2026-01-29,09:02:00,10:39:00,31.3,97,3,Normal,SUV,Guindy,Completed,Credit Card
+S613,ST006,EV176,2026-04-13,16:59:00,17:31:00,13.5,32,0,Fast,Hatchback,Velachery,Completed,Credit Card
+S614,ST001,EV048,2026-06-23,20:27:00,20:51:00,19.0,24,12,Rapid,Hatchback,Chennai Central,Completed,Credit Card
+S615,ST005,EV039,2026-01-30,20:44:00,21:09:00,4.7,25,0,Normal,Hatchback,Adyar,Failed,Credit Card
+S616,ST002,EV060,2026-02-03,14:17:00,14:51:00,16.4,34,0,Rapid,MUV,T Nagar,Completed,Credit Card
+S617,ST006,EV011,2026-04-20,16:32:00,17:41:00,19.0,69,2,Normal,Sedan,Velachery,Completed,UPI
+S618,ST001,EV004,2026-06-19,19:13:00,20:20:00,18.1,67,3,Normal,Sedan,Chennai Central,Completed,Cash
+S619,ST003,EV191,2026-03-26,13:51:00,15:33:00,18.8,102,12,Normal,Hatchback,Anna Nagar,Completed,Cash
+S620,ST002,EV195,2026-01-11,17:58:00,18:27:00,39.6,29,0,Rapid,Hatchback,T Nagar,Completed,Credit Card
+S621,ST009,EV244,2026-02-09,05:12:00,06:51:00,30.2,99,0,Normal,Hatchback,Porur,Completed,Cash
+S622,ST001,EV131,2026-02-12,18:44:00,19:13:00,1.3,29,13,Rapid,Sedan,Chennai Central,Failed,Wallet
+S623,ST009,EV078,2026-04-10,14:17:00,15:39:00,10.3,82,13,Normal,Sedan,Porur,Completed,Credit Card
+S624,ST005,EV064,2026-03-10,17:10:00,18:42:00,14.7,92,8,Normal,SUV,Adyar,Completed,Credit Card
+S625,ST009,EV084,2026-01-30,00:22:00,00:52:00,32.6,30,4,Fast,MUV,Porur,Completed,UPI
+S626,ST001,EV084,2026-04-02,09:17:00,10:25:00,40.3,68,2,Normal,MUV,Chennai Central,Completed,Debit Card
+S627,ST004,EV221,2026-05-29,18:54:00,19:46:00,14.7,52,3,Fast,Sedan,Guindy,Completed,Credit Card
+S628,ST004,EV063,2026-05-26,16:46:00,18:20:00,15.7,94,3,Normal,Sedan,Guindy,Completed,Wallet
+S629,ST007,EV037,2026-01-26,19:08:00,19:57:00,10.7,49,0,Fast,Hatchback,OMR,Completed,Cash
+S630,ST001,EV063,2026-01-03,22:06:00,22:43:00,25.4,37,4,Fast,Hatchback,Chennai Central,Completed,UPI
+S631,ST009,EV110,2026-06-27,10:34:00,11:42:00,13.3,68,16,Normal,Hatchback,Porur,Completed,Wallet
+S632,ST003,EV031,2026-04-01,18:14:00,18:34:00,41.7,20,1,Rapid,Hatchback,Anna Nagar,Completed,Debit Card
+S633,ST002,EV027,2026-01-12,18:11:00,19:29:00,14.8,78,10,Normal,Sedan,T Nagar,Completed,Debit Card
+S634,ST008,EV204,2026-06-19,13:16:00,13:41:00,39.9,25,1,Fast,Hatchback,Tambaram,Completed,Wallet
+S635,ST002,EV086,2026-01-29,17:46:00,18:11:00,4.8,25,2,Normal,Sedan,T Nagar,Failed,Credit Card
+S636,ST004,EV057,2026-04-09,15:31:00,16:20:00,28.6,49,14,Fast,SUV,Guindy,Completed,UPI
+S637,ST004,EV142,2026-04-03,00:54:00,02:06:00,39.2,72,2,Normal,SUV,Guindy,Completed,Wallet
+S638,ST004,EV019,2026-02-23,20:03:00,20:52:00,10.8,49,11,Fast,Sedan,Guindy,Completed,Wallet
+S639,ST010,EV179,2026-02-10,03:23:00,04:19:00,36.0,56,8,Normal,Sedan,Egmore,Completed,Debit Card
+S640,ST008,EV003,2026-04-16,19:28:00,20:00:00,11.9,32,6,Fast,Hatchback,Tambaram,Completed,Wallet
+S641,ST007,EV103,2026-06-24,22:29:00,22:40:00,1.0,11,1,Fast,Hatchback,OMR,Failed,Cash
+S642,ST001,EV166,2026-02-26,14:52:00,16:01:00,25.3,69,5,Fast,SUV,Chennai Central,Completed,Wallet
+S643,ST004,EV233,2026-03-11,07:04:00,08:41:00,19.0,97,4,Normal,Hatchback,Guindy,Completed,Debit Card
+S644,ST004,EV092,2026-05-22,09:59:00,10:59:00,25.5,60,18,Normal,Sedan,Guindy,Completed,Debit Card
+S645,ST007,EV007,2026-05-09,09:48:00,10:59:00,13.1,71,3,Normal,SUV,OMR,Completed,Cash
+S646,ST007,EV197,2026-05-03,17:54:00,19:48:00,30.0,114,9,Normal,Sedan,OMR,Completed,Credit Card
+S647,ST009,EV229,2026-05-13,23:38:00,00:31:00,14.2,53,11,Fast,MUV,Porur,Completed,Wallet
+S648,ST004,EV044,2026-02-23,23:38:00,01:36:00,10.5,118,2,Normal,Sedan,Guindy,Completed,Debit Card
+S649,ST003,EV094,2026-01-18,11:23:00,13:16:00,41.3,113,19,Normal,Sedan,Anna Nagar,Completed,Debit Card
+S650,ST007,EV175,2026-04-15,20:58:00,22:02:00,20.0,64,0,Fast,SUV,OMR,Completed,UPI
+S651,ST010,EV100,2026-06-14,05:50:00,06:46:00,13.4,56,3,Normal,Hatchback,Egmore,Completed,Wallet
+S652,ST002,EV088,2026-03-31,16:41:00,17:11:00,33.4,30,3,Fast,Hatchback,T Nagar,Completed,Cash
+S653,ST008,EV016,2026-02-24,19:30:00,20:44:00,30.5,74,17,Normal,SUV,Tambaram,Completed,Debit Card
+S654,ST007,EV224,2026-05-02,09:13:00,09:36:00,30.3,23,0,Rapid,MUV,OMR,Completed,Wallet
+S655,ST007,EV122,2026-05-15,09:57:00,11:03:00,40.8,66,2,Normal,Hatchback,OMR,Completed,Cash
+S656,ST003,EV211,2026-06-28,15:58:00,16:58:00,38.6,60,7,Fast,SUV,Anna Nagar,Completed,Debit Card
+S657,ST001,EV163,2026-02-08,21:59:00,23:08:00,18.4,69,30,Normal,MUV,Chennai Central,Completed,Wallet
+S658,ST010,EV094,2026-01-25,04:47:00,05:14:00,16.9,27,34,Rapid,SUV,Egmore,Completed,UPI
+S659,ST005,EV238,2026-03-20,16:55:00,18:48:00,21.3,113,32,Normal,SUV,Adyar,Completed,Credit Card
+S660,ST008,EV232,2026-04-20,13:35:00,14:18:00,31.1,43,12,Fast,SUV,Tambaram,Completed,UPI
+S661,ST002,EV075,2026-01-27,07:01:00,08:05:00,27.4,64,13,Fast,SUV,T Nagar,Completed,Wallet
+S662,ST004,EV058,2026-02-27,19:35:00,21:30:00,41.0,115,3,Normal,Sedan,Guindy,Completed,Cash
+S663,ST005,EV216,2026-03-10,20:16:00,22:04:00,10.1,108,3,Normal,MUV,Adyar,Completed,Cash
+S664,ST010,EV187,2026-03-23,12:36:00,13:10:00,30.6,34,0,Rapid,Sedan,Egmore,Completed,Credit Card
+S665,ST007,EV024,2026-03-23,17:27:00,18:38:00,30.2,71,3,Normal,Hatchback,OMR,Completed,UPI
+S666,ST001,EV048,2026-04-22,00:49:00,01:50:00,10.8,61,8,Fast,Sedan,Chennai Central,Completed,Credit Card
+S667,ST004,EV027,2026-03-18,09:53:00,11:36:00,11.7,103,8,Normal,Hatchback,Guindy,Completed,UPI
+S668,ST008,EV019,2026-06-02,07:09:00,08:15:00,37.0,66,1,Normal,MUV,Tambaram,Completed,Wallet
+S669,ST002,EV088,2026-02-23,18:24:00,18:44:00,19.6,20,15,Rapid,SUV,T Nagar,Completed,Debit Card
+S670,ST008,EV094,2026-06-07,18:00:00,19:10:00,10.9,70,14,Normal,Hatchback,Tambaram,Completed,UPI
+S671,ST004,EV208,2026-01-08,12:14:00,13:25:00,25.4,71,11,Normal,Hatchback,Guindy,Completed,Wallet
+S672,ST007,EV109,2026-05-12,22:59:00,23:18:00,3.9,19,10,Normal,Sedan,OMR,Failed,Cash
+S673,ST005,EV076,2026-03-23,18:38:00,18:56:00,2.0,18,13,Normal,Sedan,Adyar,Failed,Cash
+S674,ST009,EV003,2026-04-01,14:07:00,15:25:00,12.3,78,5,Normal,Sedan,Porur,Completed,Debit Card
+S675,ST001,EV243,2026-03-26,09:36:00,10:25:00,29.3,49,9,Fast,MUV,Chennai Central,Completed,UPI
+S676,ST010,EV044,2026-06-15,15:48:00,17:08:00,35.7,80,3,Normal,Hatchback,Egmore,Completed,Cash
+S677,ST006,EV166,2026-06-01,14:36:00,15:31:00,14.2,55,33,Normal,Sedan,Velachery,Completed,UPI
+S678,ST002,EV117,2026-05-01,07:51:00,09:26:00,12.6,95,2,Normal,Sedan,T Nagar,Completed,Wallet
+S679,ST002,EV231,2026-04-06,21:06:00,22:02:00,41.8,56,5,Normal,Sedan,T Nagar,Completed,Debit Card
+S680,ST009,EV098,2026-01-02,21:55:00,22:55:00,40.3,60,10,Normal,MUV,Porur,Completed,Debit Card
+S681,ST003,EV250,2026-02-05,17:07:00,18:54:00,31.4,107,14,Normal,MUV,Anna Nagar,Completed,Debit Card
+S682,ST006,EV055,2026-05-04,09:16:00,10:16:00,37.9,60,5,Fast,Hatchback,Velachery,Completed,UPI
+S683,ST004,EV034,2026-04-30,20:12:00,20:57:00,40.2,45,13,Fast,Sedan,Guindy,Completed,Credit Card
+S684,ST006,EV225,2026-04-09,22:55:00,23:32:00,18.9,37,10,Fast,Sedan,Velachery,Completed,UPI
+S685,ST002,EV129,2026-03-03,01:29:00,03:21:00,13.8,112,4,Normal,Sedan,T Nagar,Completed,Wallet
+S686,ST009,EV133,2026-03-27,05:17:00,07:00:00,19.4,103,3,Normal,Sedan,Porur,Completed,Wallet
+S687,ST002,EV180,2026-06-24,05:15:00,05:48:00,18.5,33,0,Rapid,Sedan,T Nagar,Completed,Wallet
+S688,ST007,EV048,2026-04-11,07:46:00,08:24:00,35.1,38,2,Fast,Hatchback,OMR,Completed,Cash
+S689,ST010,EV110,2026-05-03,19:54:00,20:11:00,15.3,17,20,Rapid,Sedan,Egmore,Completed,Debit Card
+S690,ST001,EV012,2026-02-15,22:56:00,23:52:00,41.0,56,6,Normal,Hatchback,Chennai Central,Completed,UPI
+S691,ST010,EV140,2026-06-24,23:53:00,01:06:00,19.7,73,5,Normal,SUV,Egmore,Completed,Debit Card
+S692,ST008,EV164,2026-03-06,13:00:00,13:58:00,31.2,58,4,Fast,Sedan,Tambaram,Completed,UPI
+S693,ST003,EV245,2026-04-16,20:42:00,21:15:00,33.7,33,11,Rapid,SUV,Anna Nagar,Completed,Wallet
+S694,ST002,EV149,2026-03-12,20:43:00,20:49:00,2.5,6,2,Fast,MUV,T Nagar,Failed,Cash
+S695,ST006,EV075,2026-06-06,07:50:00,08:33:00,41.0,43,8,Fast,MUV,Velachery,Completed,Cash
+S696,ST009,EV091,2026-06-20,08:31:00,09:27:00,17.0,56,4,Normal,Hatchback,Porur,Completed,UPI
+S697,ST001,EV057,2026-03-06,08:56:00,10:10:00,18.7,74,9,Normal,MUV,Chennai Central,Completed,UPI
+S698,ST008,EV206,2026-04-01,10:43:00,11:24:00,19.7,41,2,Fast,SUV,Tambaram,Completed,Cash
+S699,ST003,EV214,2026-06-24,19:16:00,20:49:00,19.5,93,5,Normal,SUV,Anna Nagar,Completed,Wallet
+S700,ST002,EV246,2026-02-05,17:44:00,19:24:00,23.7,100,3,Normal,MUV,T Nagar,Completed,Wallet
+S701,ST002,EV104,2026-02-05,18:19:00,18:52:00,27.4,33,10,Fast,SUV,T Nagar,Completed,UPI
+S702,ST008,EV032,2026-05-13,16:03:00,17:11:00,13.1,68,15,Normal,Sedan,Tambaram,Completed,Cash
+S703,ST009,EV240,2026-01-14,19:33:00,21:31:00,38.6,118,8,Normal,Hatchback,Porur,Completed,UPI
+S704,ST008,EV015,2026-06-09,18:07:00,19:17:00,17.9,70,13,Normal,Sedan,Tambaram,Completed,UPI
+S705,ST005,EV048,2026-04-14,16:11:00,17:15:00,24.1,64,5,Fast,Hatchback,Adyar,Completed,Credit Card
+S706,ST004,EV179,2026-02-13,16:44:00,17:27:00,13.2,43,13,Fast,SUV,Guindy,Completed,UPI
+S707,ST008,EV247,2026-04-17,20:09:00,21:53:00,19.7,104,5,Normal,SUV,Tambaram,Completed,Credit Card
+S708,ST008,EV091,2026-04-28,11:10:00,13:09:00,38.9,119,4,Normal,MUV,Tambaram,Completed,Cash
+S709,ST006,EV047,2026-04-28,19:50:00,21:23:00,39.3,93,28,Normal,Hatchback,Velachery,Completed,Cash
+S710,ST009,EV025,2026-06-18,17:08:00,18:10:00,36.6,62,6,Fast,SUV,Porur,Completed,UPI
+S711,ST008,EV065,2026-06-23,16:48:00,18:13:00,38.2,85,29,Normal,Hatchback,Tambaram,Completed,UPI
+S712,ST001,EV126,2026-01-19,15:23:00,16:08:00,32.4,45,8,Fast,Hatchback,Chennai Central,Completed,Wallet
+S713,ST005,EV002,2026-02-27,09:10:00,10:29:00,10.8,79,5,Normal,SUV,Adyar,Completed,Debit Card
+S714,ST007,EV219,2026-05-26,17:04:00,19:02:00,16.6,118,3,Normal,Hatchback,OMR,Completed,Credit Card
+S715,ST002,EV058,2026-04-23,15:24:00,15:48:00,13.2,24,9,Rapid,SUV,T Nagar,Completed,Debit Card
+S716,ST005,EV140,2026-04-10,19:04:00,19:36:00,28.4,32,4,Rapid,Sedan,Adyar,Completed,UPI
+S717,ST010,EV237,2026-05-01,21:16:00,21:57:00,20.7,41,0,Fast,Sedan,Egmore,Completed,UPI
+S718,ST004,EV034,2026-05-07,06:36:00,06:53:00,40.4,17,15,Rapid,Hatchback,Guindy,Completed,Debit Card
+S719,ST001,EV051,2026-01-27,03:32:00,05:28:00,37.2,116,1,Normal,SUV,Chennai Central,Completed,Cash
+S720,ST010,EV230,2026-04-08,18:47:00,20:31:00,14.0,104,5,Normal,SUV,Egmore,Completed,Cash
+S721,ST006,EV224,2026-04-01,09:27:00,09:42:00,17.3,15,5,Rapid,Sedan,Velachery,Completed,Credit Card
+S722,ST001,EV169,2026-01-20,05:28:00,07:07:00,38.5,99,2,Normal,Sedan,Chennai Central,Completed,UPI
+S723,ST002,EV229,2026-03-06,21:13:00,21:52:00,32.8,39,14,Fast,Hatchback,T Nagar,Completed,Debit Card
+S724,ST006,EV032,2026-06-28,17:06:00,19:03:00,16.5,117,1,Normal,MUV,Velachery,Completed,Debit Card
+S725,ST003,EV022,2026-01-10,22:44:00,23:53:00,36.8,69,2,Normal,Hatchback,Anna Nagar,Completed,UPI
+S726,ST005,EV139,2026-06-06,14:01:00,14:22:00,22.1,21,5,Rapid,SUV,Adyar,Completed,Debit Card
+S727,ST001,EV193,2026-06-05,19:21:00,19:46:00,33.2,25,12,Rapid,MUV,Chennai Central,Completed,UPI
+S728,ST002,EV237,2026-05-22,14:46:00,15:19:00,33.0,33,21,Rapid,Sedan,T Nagar,Completed,Credit Card
+S729,ST003,EV065,2026-01-04,11:43:00,12:07:00,20.8,24,3,Rapid,Sedan,Anna Nagar,Completed,Cash
+S730,ST001,EV217,2026-02-01,12:42:00,13:59:00,10.6,77,17,Normal,Sedan,Chennai Central,Completed,Cash
+S731,ST004,EV038,2026-04-15,06:05:00,07:40:00,15.8,95,2,Normal,SUV,Guindy,Completed,Cash
+S732,ST001,EV174,2026-03-01,07:02:00,07:07:00,7.8,5,17,Normal,SUV,Chennai Central,Failed,Debit Card
+S733,ST009,EV019,2026-01-12,18:22:00,19:31:00,17.6,69,15,Normal,SUV,Porur,Completed,Wallet
+S734,ST005,EV239,2026-02-06,02:38:00,03:44:00,25.1,66,2,Fast,Sedan,Adyar,Completed,Credit Card
+S735,ST010,EV098,2026-01-07,07:13:00,08:15:00,21.0,62,1,Fast,SUV,Egmore,Completed,UPI
+S736,ST002,EV215,2026-02-27,17:36:00,18:34:00,11.6,58,3,Fast,Hatchback,T Nagar,Completed,Cash
+S737,ST005,EV093,2026-03-04,12:51:00,13:36:00,41.1,45,9,Fast,SUV,Adyar,Completed,UPI
+S738,ST006,EV173,2026-05-24,16:58:00,18:22:00,23.4,84,4,Normal,SUV,Velachery,Completed,Cash
+S739,ST003,EV004,2026-06-05,10:18:00,12:05:00,41.5,107,13,Normal,Sedan,Anna Nagar,Completed,Credit Card
+S740,ST002,EV222,2026-04-18,10:35:00,11:08:00,11.1,33,21,Fast,SUV,T Nagar,Completed,Cash
+S741,ST007,EV236,2026-04-19,13:25:00,13:53:00,0.4,28,15,Fast,Sedan,OMR,Failed,Debit Card
+S742,ST008,EV152,2026-04-15,18:47:00,19:56:00,33.5,69,5,Fast,Sedan,Tambaram,Completed,Cash
+S743,ST006,EV131,2026-06-22,18:24:00,19:54:00,19.5,90,2,Normal,Sedan,Velachery,Completed,Wallet
+S744,ST005,EV074,2026-03-24,14:48:00,16:09:00,18.9,81,4,Normal,Sedan,Adyar,Completed,Debit Card
+S745,ST008,EV008,2026-04-23,09:10:00,10:18:00,18.9,68,9,Normal,MUV,Tambaram,Completed,Cash
+S746,ST001,EV076,2026-05-19,17:12:00,18:10:00,19.0,58,4,Normal,Hatchback,Chennai Central,Completed,UPI
+S747,ST002,EV071,2026-04-24,21:31:00,23:01:00,41.0,90,0,Normal,MUV,T Nagar,Completed,Wallet
+S748,ST009,EV225,2026-06-22,19:45:00,20:37:00,39.8,52,11,Fast,MUV,Porur,Completed,UPI
+S749,ST001,EV023,2026-03-04,08:24:00,08:54:00,14.8,30,1,Rapid,Sedan,Chennai Central,Completed,Cash
+S750,ST004,EV136,2026-01-01,15:31:00,15:58:00,32.0,27,4,Fast,Sedan,Guindy,Completed,Credit Card
+S751,ST005,EV194,2026-03-01,20:42:00,21:45:00,27.4,63,2,Fast,Hatchback,Adyar,Completed,Debit Card
+S752,ST007,EV154,2026-04-25,12:42:00,14:17:00,21.1,95,8,Normal,Sedan,OMR,Completed,Wallet
+S753,ST004,EV103,2026-01-08,11:32:00,13:19:00,34.7,107,2,Normal,MUV,Guindy,Completed,Debit Card
+S754,ST001,EV248,2026-03-10,16:14:00,17:48:00,17.1,94,14,Normal,Hatchback,Chennai Central,Completed,Cash
+S755,ST010,EV093,2026-03-26,07:34:00,09:17:00,32.6,103,14,Normal,Hatchback,Egmore,Completed,Cash
+S756,ST004,EV241,2026-02-10,20:25:00,20:50:00,23.2,25,4,Rapid,Sedan,Guindy,Completed,Cash
+S757,ST002,EV097,2026-05-09,14:31:00,15:29:00,34.7,58,6,Normal,Sedan,T Nagar,Completed,Wallet
+S758,ST003,EV101,2026-03-11,20:04:00,21:52:00,33.8,108,4,Normal,Hatchback,Anna Nagar,Completed,Credit Card
+S759,ST010,EV057,2026-03-21,19:27:00,20:21:00,13.2,54,5,Fast,Sedan,Egmore,Completed,Wallet
+S760,ST009,EV007,2026-03-13,16:58:00,17:24:00,33.3,26,2,Fast,SUV,Porur,Completed,Wallet
+S761,ST004,EV104,2026-04-25,13:36:00,14:49:00,13.1,73,9,Normal,Sedan,Guindy,Completed,Cash
+S762,ST008,EV105,2026-05-14,19:36:00,20:17:00,20.0,41,2,Fast,Sedan,Tambaram,Completed,UPI
+S763,ST005,EV188,2026-06-26,09:35:00,10:41:00,20.3,66,13,Fast,SUV,Adyar,Completed,UPI
+S764,ST002,EV135,2026-04-19,19:24:00,20:34:00,24.0,70,0,Normal,Sedan,T Nagar,Completed,Wallet
+S765,ST003,EV134,2026-05-21,15:00:00,16:32:00,26.7,92,11,Normal,SUV,Anna Nagar,Completed,Credit Card
+S766,ST010,EV018,2026-04-06,17:16:00,17:49:00,26.8,33,3,Fast,Sedan,Egmore,Completed,UPI
+S767,ST005,EV089,2026-06-29,08:44:00,09:51:00,25.0,67,7,Normal,SUV,Adyar,Completed,UPI
+S768,ST004,EV152,2026-03-12,11:58:00,12:32:00,34.5,34,14,Rapid,SUV,Guindy,Completed,Credit Card
+S769,ST002,EV158,2026-02-25,11:16:00,12:02:00,34.7,46,24,Fast,Sedan,T Nagar,Completed,Wallet
+S770,ST004,EV131,2026-02-13,00:14:00,00:34:00,25.2,20,11,Rapid,Sedan,Guindy,Completed,Wallet
+S771,ST007,EV021,2026-06-20,16:19:00,17:08:00,22.3,49,11,Fast,Sedan,OMR,Completed,Cash
+S772,ST004,EV046,2026-02-12,22:53:00,00:43:00,25.7,110,7,Normal,Sedan,Guindy,Completed,UPI
+S773,ST006,EV002,2026-04-30,19:22:00,20:11:00,15.7,49,5,Fast,Sedan,Velachery,Completed,Cash
+S774,ST005,EV065,2026-03-26,07:23:00,07:46:00,11.1,23,2,Rapid,SUV,Adyar,Completed,Debit Card
+S775,ST001,EV229,2026-05-27,20:55:00,21:51:00,25.2,56,5,Fast,SUV,Chennai Central,Completed,Credit Card
+S776,ST003,EV173,2026-02-03,06:53:00,07:38:00,37.5,45,9,Fast,Sedan,Anna Nagar,Completed,Debit Card
+S777,ST003,EV187,2026-05-31,19:23:00,20:14:00,31.4,51,7,Fast,MUV,Anna Nagar,Completed,Debit Card
+S778,ST002,EV120,2026-02-14,15:17:00,15:53:00,33.9,36,10,Fast,Hatchback,T Nagar,Completed,Cash
+S779,ST002,EV021,2026-05-25,21:05:00,22:11:00,28.9,66,0,Normal,Sedan,T Nagar,Completed,Credit Card
+S780,ST005,EV058,2026-06-24,18:57:00,19:13:00,22.1,16,2,Rapid,Hatchback,Adyar,Completed,Credit Card
+S781,ST005,EV044,2026-02-21,08:18:00,09:24:00,28.5,66,14,Normal,SUV,Adyar,Completed,UPI
+S782,ST010,EV213,2026-04-09,08:36:00,10:15:00,31.8,99,9,Normal,Hatchback,Egmore,Completed,Debit Card
+S783,ST002,EV097,2026-05-12,19:16:00,20:25:00,30.2,69,8,Normal,Sedan,T Nagar,Completed,Cash
+S784,ST001,EV120,2026-03-24,19:40:00,20:55:00,20.7,75,21,Normal,MUV,Chennai Central,Completed,Cash
+S785,ST003,EV077,2026-01-06,15:39:00,16:29:00,36.7,50,2,Fast,SUV,Anna Nagar,Completed,UPI
+S786,ST004,EV193,2026-05-10,07:27:00,07:50:00,1.6,23,35,Fast,MUV,Guindy,Failed,Credit Card
+S787,ST003,EV079,2026-06-19,12:03:00,12:32:00,22.7,29,3,Rapid,Sedan,Anna Nagar,Completed,UPI
+S788,ST003,EV234,2026-03-02,20:27:00,22:09:00,15.1,102,13,Normal,Sedan,Anna Nagar,Completed,Wallet
+S789,ST007,EV126,2026-04-29,19:48:00,20:15:00,34.7,27,2,Rapid,SUV,OMR,Completed,Cash
+S790,ST001,EV049,2026-02-26,21:11:00,22:08:00,10.1,57,12,Fast,SUV,Chennai Central,Completed,UPI
+S791,ST004,EV042,2026-03-19,15:21:00,16:35:00,22.4,74,24,Normal,Sedan,Guindy,Completed,Wallet
+S792,ST009,EV168,2026-01-28,16:05:00,17:51:00,20.2,106,14,Normal,Hatchback,Porur,Completed,Wallet
+S793,ST007,EV046,2026-01-14,11:16:00,12:13:00,35.0,57,33,Fast,Sedan,OMR,Completed,Wallet
+S794,ST009,EV032,2026-04-09,20:05:00,21:33:00,36.0,88,5,Normal,Sedan,Porur,Completed,Wallet
+S795,ST008,EV005,2026-04-04,05:38:00,06:46:00,34.5,68,0,Fast,Sedan,Tambaram,Completed,Wallet
+S796,ST006,EV071,2026-03-18,18:38:00,20:23:00,12.7,105,8,Normal,Hatchback,Velachery,Completed,Debit Card
+S797,ST008,EV226,2026-06-26,18:58:00,19:25:00,20.5,27,35,Fast,Hatchback,Tambaram,Completed,UPI
+S798,ST007,EV030,2026-05-12,23:05:00,00:38:00,10.7,93,10,Normal,SUV,OMR,Completed,Credit Card
+S799,ST010,EV192,2026-03-08,23:39:00,00:48:00,11.6,69,13,Fast,MUV,Egmore,Completed,Credit Card
+S800,ST005,EV203,2026-05-09,18:38:00,20:09:00,23.0,91,0,Normal,Sedan,Adyar,Completed,Debit Card
+S801,ST002,EV239,2026-02-26,09:45:00,11:16:00,36.5,91,4,Normal,Sedan,T Nagar,Completed,Cash
+S802,ST001,EV147,2026-03-29,13:22:00,14:00:00,32.3,38,5,Fast,Sedan,Chennai Central,Completed,UPI
+S803,ST008,EV160,2026-05-24,23:05:00,00:47:00,34.0,102,3,Normal,MUV,Tambaram,Completed,Debit Card
+S804,ST010,EV102,2026-04-21,15:48:00,17:45:00,39.5,117,35,Normal,MUV,Egmore,Completed,Credit Card
+S805,ST004,EV162,2026-01-29,17:11:00,17:39:00,21.3,28,1,Rapid,Hatchback,Guindy,Completed,UPI
+S806,ST006,EV086,2026-05-09,17:25:00,19:19:00,39.6,114,1,Normal,SUV,Velachery,Completed,Wallet
+S807,ST003,EV021,2026-06-24,21:24:00,22:15:00,30.4,51,9,Fast,SUV,Anna Nagar,Completed,Cash
+S808,ST010,EV218,2026-04-15,22:20:00,23:28:00,40.5,68,15,Fast,Sedan,Egmore,Completed,Credit Card
+S809,ST008,EV155,2026-04-05,19:15:00,20:35:00,19.4,80,0,Normal,MUV,Tambaram,Completed,Wallet
+S810,ST004,EV134,2026-02-15,22:32:00,23:07:00,24.8,35,6,Fast,Hatchback,Guindy,Completed,Wallet
+S811,ST007,EV011,2026-01-19,19:16:00,19:46:00,36.5,30,10,Rapid,SUV,OMR,Completed,Debit Card
+S812,ST007,EV234,2026-05-11,18:28:00,19:41:00,36.4,73,0,Normal,Sedan,OMR,Completed,Credit Card
+S813,ST008,EV146,2026-02-23,10:21:00,11:01:00,18.3,40,13,Fast,Sedan,Tambaram,Completed,Debit Card
+S814,ST010,EV113,2026-01-10,19:09:00,20:10:00,32.8,61,8,Fast,Sedan,Egmore,Completed,Debit Card
+S815,ST003,EV131,2026-06-27,07:38:00,09:02:00,16.8,84,2,Normal,SUV,Anna Nagar,Completed,Cash
+S816,ST007,EV098,2026-05-03,18:10:00,18:41:00,22.0,31,3,Rapid,SUV,OMR,Completed,UPI
+S817,ST002,EV201,2026-03-29,09:13:00,10:23:00,21.4,70,15,Normal,Sedan,T Nagar,Completed,Cash
+S818,ST004,EV146,2026-02-21,13:02:00,14:39:00,18.7,97,18,Normal,Sedan,Guindy,Completed,Cash
+S819,ST004,EV191,2026-03-04,10:47:00,12:13:00,33.0,86,1,Normal,MUV,Guindy,Completed,Credit Card
+S820,ST002,EV022,2026-02-03,17:03:00,18:59:00,27.2,116,0,Normal,Sedan,T Nagar,Completed,Wallet
+S821,ST004,EV194,2026-01-26,17:13:00,18:15:00,37.6,62,13,Fast,Sedan,Guindy,Completed,Wallet
+S822,ST001,EV071,2026-03-06,19:38:00,21:15:00,26.5,97,10,Normal,SUV,Chennai Central,Completed,Cash
+S823,ST009,EV111,2026-03-21,18:07:00,18:32:00,38.6,25,4,Rapid,MUV,Porur,Completed,Debit Card
+S824,ST002,EV238,2026-04-24,13:43:00,14:22:00,19.8,39,2,Fast,Sedan,T Nagar,Completed,Cash
+S825,ST004,EV200,2026-05-27,18:20:00,19:36:00,31.2,76,14,Normal,Hatchback,Guindy,Completed,Debit Card
+S826,ST004,EV196,2026-03-09,16:54:00,17:40:00,21.3,46,5,Fast,SUV,Guindy,Completed,Wallet
+S827,ST001,EV083,2026-04-14,05:26:00,07:19:00,36.2,113,1,Normal,Hatchback,Chennai Central,Completed,Wallet
+S828,ST007,EV185,2026-03-25,17:47:00,19:46:00,18.8,119,0,Normal,Sedan,OMR,Completed,Cash
+S829,ST008,EV071,2026-01-12,19:24:00,20:04:00,41.6,40,4,Fast,MUV,Tambaram,Completed,Cash
+S830,ST006,EV023,2026-04-23,21:07:00,21:52:00,33.4,45,1,Fast,MUV,Velachery,Completed,Wallet
+S831,ST004,EV227,2026-03-25,17:48:00,18:57:00,14.5,69,27,Fast,SUV,Guindy,Completed,Credit Card
+S832,ST003,EV207,2026-03-24,16:29:00,17:57:00,33.9,88,8,Normal,Sedan,Anna Nagar,Completed,Wallet
+S833,ST001,EV189,2026-05-16,06:32:00,07:31:00,35.5,59,13,Normal,SUV,Chennai Central,Completed,UPI
+S834,ST010,EV071,2026-01-24,22:49:00,00:49:00,39.5,120,9,Normal,Sedan,Egmore,Completed,Wallet
+S835,ST008,EV213,2026-02-08,18:04:00,19:57:00,32.2,113,6,Normal,SUV,Tambaram,Completed,Wallet
+S836,ST001,EV148,2026-01-03,09:27:00,11:03:00,30.9,96,15,Normal,MUV,Chennai Central,Completed,Credit Card
+S837,ST004,EV052,2026-02-07,09:11:00,10:11:00,21.2,60,26,Normal,SUV,Guindy,Completed,Debit Card
+S838,ST003,EV219,2026-04-19,23:14:00,23:33:00,38.1,19,3,Rapid,Sedan,Anna Nagar,Completed,Credit Card
+S839,ST007,EV241,2026-01-13,15:25:00,16:35:00,26.2,70,4,Normal,Hatchback,OMR,Completed,Wallet
+S840,ST010,EV108,2026-04-02,19:20:00,20:26:00,25.3,66,4,Normal,Sedan,Egmore,Completed,Wallet
+S841,ST002,EV012,2026-04-01,13:19:00,13:34:00,5.8,15,5,Fast,SUV,T Nagar,Failed,Credit Card
+S842,ST004,EV108,2026-02-15,17:08:00,17:35:00,29.1,27,10,Fast,Sedan,Guindy,Completed,Credit Card
+S843,ST003,EV216,2026-05-13,22:47:00,23:19:00,15.2,32,3,Fast,Hatchback,Anna Nagar,Completed,Debit Card
+S844,ST010,EV026,2026-03-24,02:01:00,03:00:00,23.0,59,12,Normal,MUV,Egmore,Completed,UPI
+S845,ST006,EV066,2026-02-27,07:04:00,08:52:00,14.3,108,4,Normal,SUV,Velachery,Completed,Credit Card
+S846,ST006,EV025,2026-06-18,17:39:00,18:40:00,14.0,61,4,Fast,Sedan,Velachery,Completed,Wallet
+S847,ST005,EV084,2026-06-07,07:14:00,07:23:00,2.1,9,5,Normal,Hatchback,Adyar,Failed,Wallet
+S848,ST006,EV061,2026-06-19,08:47:00,09:03:00,35.4,16,6,Rapid,Sedan,Velachery,Completed,Credit Card
+S849,ST007,EV197,2026-03-24,00:30:00,01:23:00,24.5,53,2,Fast,Sedan,OMR,Completed,Cash
+S850,ST006,EV110,2026-03-28,23:11:00,01:08:00,31.2,117,5,Normal,Hatchback,Velachery,Completed,UPI
+S851,ST009,EV222,2026-02-02,07:29:00,08:02:00,21.1,33,33,Fast,Sedan,Porur,Completed,Cash
+S852,ST003,EV136,2026-04-12,20:56:00,21:17:00,33.5,21,14,Rapid,Sedan,Anna Nagar,Completed,Cash
+S853,ST001,EV039,2026-05-17,13:14:00,14:02:00,13.2,48,15,Fast,MUV,Chennai Central,Completed,Cash
+S854,ST010,EV077,2026-04-19,20:17:00,22:03:00,38.8,106,3,Normal,MUV,Egmore,Completed,UPI
+S855,ST002,EV244,2026-03-06,19:42:00,20:45:00,23.1,63,13,Normal,MUV,T Nagar,Completed,Credit Card
+S856,ST007,EV242,2026-02-10,18:25:00,18:54:00,40.8,29,2,Fast,Sedan,OMR,Completed,Credit Card
+S857,ST004,EV211,2026-04-24,08:17:00,09:15:00,26.8,58,5,Fast,Sedan,Guindy,Completed,UPI
+S858,ST009,EV044,2026-06-06,15:04:00,15:49:00,41.6,45,10,Rapid,Hatchback,Porur,Completed,Wallet
+S859,ST005,EV198,2026-02-27,17:05:00,17:47:00,37.2,42,3,Rapid,SUV,Adyar,Completed,Debit Card
+S860,ST005,EV171,2026-03-06,18:21:00,20:01:00,13.2,100,3,Normal,Hatchback,Adyar,Completed,Debit Card
+S861,ST002,EV173,2026-05-05,17:53:00,18:16:00,1.9,23,5,Fast,SUV,T Nagar,Failed,Cash
+S862,ST007,EV162,2026-04-11,19:02:00,20:55:00,26.7,113,3,Normal,Hatchback,OMR,Completed,Debit Card
+S863,ST002,EV118,2026-03-16,21:51:00,23:18:00,31.9,87,2,Normal,SUV,T Nagar,Completed,Debit Card
+S864,ST003,EV207,2026-02-23,17:55:00,18:42:00,36.1,47,3,Fast,Sedan,Anna Nagar,Completed,Credit Card
+S865,ST006,EV230,2026-03-20,07:46:00,09:44:00,34.2,118,1,Normal,SUV,Velachery,Completed,Debit Card
+S866,ST003,EV051,2026-02-13,12:07:00,14:06:00,27.9,119,4,Normal,Sedan,Anna Nagar,Completed,UPI
+S867,ST002,EV114,2026-06-03,21:42:00,21:54:00,2.6,12,7,Normal,Sedan,T Nagar,Failed,UPI
+S868,ST004,EV006,2026-05-21,08:17:00,09:40:00,17.2,83,5,Normal,Sedan,Guindy,Completed,Cash
+S869,ST008,EV111,2026-04-23,15:35:00,15:48:00,6.4,13,12,Rapid,Sedan,Tambaram,Failed,Debit Card
+S870,ST006,EV130,2026-03-02,12:22:00,13:58:00,35.5,96,19,Normal,Hatchback,Velachery,Completed,Wallet
+S871,ST009,EV017,2026-03-22,07:52:00,08:46:00,28.4,54,0,Fast,Hatchback,Porur,Completed,Credit Card
+S872,ST001,EV008,2026-05-24,15:41:00,16:54:00,21.3,73,5,Normal,Sedan,Chennai Central,Completed,Cash
+S873,ST008,EV243,2026-04-21,19:08:00,19:40:00,32.3,32,11,Rapid,Sedan,Tambaram,Completed,Wallet
+S874,ST003,EV042,2026-05-19,23:37:00,00:38:00,21.5,61,0,Normal,Sedan,Anna Nagar,Completed,Credit Card
+S875,ST004,EV122,2026-06-03,19:11:00,19:43:00,12.9,32,15,Fast,Sedan,Guindy,Completed,Credit Card
+S876,ST006,EV021,2026-02-16,07:22:00,08:49:00,15.9,87,3,Normal,SUV,Velachery,Completed,Debit Card
+S877,ST008,EV008,2026-01-25,17:01:00,17:27:00,13.1,26,0,Rapid,Sedan,Tambaram,Completed,Cash
+S878,ST010,EV113,2026-04-06,20:11:00,21:29:00,41.2,78,0,Normal,SUV,Egmore,Completed,Credit Card
+S879,ST009,EV128,2026-02-08,20:28:00,21:38:00,19.3,70,2,Normal,Sedan,Porur,Completed,Credit Card
+S880,ST010,EV246,2026-02-09,23:58:00,01:42:00,13.7,104,4,Normal,SUV,Egmore,Completed,Wallet
+S881,ST004,EV101,2026-04-14,04:03:00,04:20:00,31.2,17,14,Rapid,MUV,Guindy,Completed,Cash
+S882,ST004,EV157,2026-03-14,12:28:00,13:18:00,22.1,50,3,Fast,Sedan,Guindy,Completed,Wallet
+S883,ST005,EV045,2026-05-08,23:49:00,00:51:00,11.3,62,10,Normal,Hatchback,Adyar,Completed,Debit Card
+S884,ST001,EV012,2026-05-17,02:19:00,03:20:00,23.9,61,4,Normal,SUV,Chennai Central,Completed,Credit Card
+S885,ST002,EV177,2026-04-28,22:57:00,00:18:00,28.3,81,17,Normal,Sedan,T Nagar,Completed,UPI
+S886,ST005,EV172,2026-01-02,21:42:00,22:31:00,17.3,49,3,Fast,Hatchback,Adyar,Completed,Debit Card
+S887,ST007,EV200,2026-06-24,17:55:00,18:32:00,10.3,37,12,Rapid,Sedan,OMR,Completed,Wallet
+S888,ST005,EV018,2026-06-03,00:44:00,02:36:00,32.1,112,0,Normal,Hatchback,Adyar,Completed,Credit Card
+S889,ST009,EV227,2026-03-25,08:47:00,10:32:00,19.2,105,10,Normal,Hatchback,Porur,Completed,Credit Card
+S890,ST002,EV018,2026-05-23,20:12:00,22:07:00,13.6,115,0,Normal,MUV,T Nagar,Completed,Credit Card
+S891,ST007,EV040,2026-06-07,13:47:00,14:47:00,26.1,60,1,Normal,SUV,OMR,Completed,Debit Card
+S892,ST005,EV185,2026-02-14,13:12:00,13:57:00,19.3,45,9,Rapid,Sedan,Adyar,Completed,Wallet
+S893,ST001,EV159,2026-04-23,06:15:00,06:49:00,40.9,34,0,Fast,Sedan,Chennai Central,Completed,Credit Card
+S894,ST006,EV010,2026-04-05,04:57:00,06:40:00,11.9,103,15,Normal,Sedan,Velachery,Completed,Cash
+S895,ST009,EV163,2026-01-19,01:52:00,02:28:00,29.7,36,9,Rapid,MUV,Porur,Completed,Wallet
+S896,ST008,EV118,2026-02-09,15:56:00,17:13:00,38.2,77,6,Normal,Sedan,Tambaram,Completed,Wallet
+S897,ST009,EV087,2026-02-28,23:08:00,23:59:00,23.4,51,30,Fast,SUV,Porur,Completed,Debit Card
+S898,ST007,EV101,2026-02-04,19:13:00,20:32:00,29.8,79,3,Normal,Hatchback,OMR,Completed,Credit Card
+S899,ST008,EV242,2026-01-28,17:28:00,19:15:00,16.9,107,28,Normal,Hatchback,Tambaram,Completed,Wallet
+S900,ST001,EV190,2026-06-27,09:36:00,10:42:00,28.4,66,1,Fast,Sedan,Chennai Central,Completed,Credit Card
+S901,ST008,EV085,2026-03-22,18:48:00,19:56:00,35.2,68,16,Fast,Hatchback,Tambaram,Completed,UPI
+S902,ST006,EV078,2026-04-02,09:09:00,09:43:00,39.1,34,4,Rapid,Sedan,Velachery,Completed,UPI
+S903,ST009,EV038,2026-02-10,21:09:00,22:56:00,27.7,107,23,Normal,Sedan,Porur,Completed,Wallet
+S904,ST002,EV006,2026-01-11,08:24:00,09:26:00,41.6,62,13,Fast,SUV,T Nagar,Completed,Wallet
+S905,ST010,EV183,2026-03-30,21:05:00,21:29:00,31.7,24,22,Rapid,Sedan,Egmore,Completed,UPI
+S906,ST006,EV007,2026-06-04,23:31:00,01:19:00,37.2,108,24,Normal,MUV,Velachery,Completed,Wallet
+S907,ST006,EV224,2026-02-12,05:15:00,06:01:00,18.7,46,5,Fast,Sedan,Velachery,Completed,Cash
+S908,ST001,EV201,2026-05-27,01:24:00,03:08:00,31.5,104,5,Normal,SUV,Chennai Central,Completed,Wallet
+S909,ST007,EV006,2026-03-29,08:22:00,09:05:00,12.7,43,7,Fast,SUV,OMR,Completed,Credit Card
+S910,ST002,EV040,2026-03-04,06:23:00,07:48:00,12.4,85,6,Normal,SUV,T Nagar,Completed,Cash
+S911,ST008,EV176,2026-06-11,20:50:00,21:20:00,0.0,30,5,Fast,SUV,Tambaram,Failed,Credit Card
+S912,ST004,EV222,2026-01-13,19:24:00,21:19:00,41.6,115,4,Normal,SUV,Guindy,Completed,UPI
+S913,ST008,EV194,2026-02-17,16:05:00,17:18:00,41.1,73,5,Normal,Sedan,Tambaram,Completed,Credit Card
+S914,ST003,EV175,2026-04-12,18:37:00,20:08:00,18.0,91,2,Normal,SUV,Anna Nagar,Completed,Debit Card
+S915,ST005,EV082,2026-02-11,06:04:00,07:08:00,36.2,64,16,Fast,MUV,Adyar,Completed,Cash
+S916,ST006,EV140,2026-06-28,18:43:00,19:09:00,33.8,26,3,Rapid,SUV,Velachery,Completed,Credit Card
+S917,ST004,EV193,2026-05-31,08:44:00,10:38:00,35.5,114,3,Normal,SUV,Guindy,Completed,Wallet
+S918,ST007,EV025,2026-01-07,20:50:00,22:04:00,10.4,74,8,Normal,MUV,OMR,Completed,UPI
+S919,ST007,EV128,2026-05-01,08:21:00,09:36:00,40.6,75,4,Normal,SUV,OMR,Completed,Wallet
+S920,ST007,EV056,2026-02-10,16:42:00,17:45:00,25.3,63,2,Normal,MUV,OMR,Completed,Wallet
+S921,ST008,EV222,2026-01-04,22:40:00,00:29:00,29.2,109,10,Normal,SUV,Tambaram,Completed,Credit Card
+S922,ST006,EV148,2026-05-25,22:04:00,23:30:00,20.4,86,11,Normal,SUV,Velachery,Completed,Debit Card
+S923,ST004,EV131,2026-02-02,22:50:00,00:00:00,29.5,70,1,Fast,MUV,Guindy,Completed,UPI
+S924,ST007,EV122,2026-02-07,18:05:00,18:34:00,22.5,29,1,Fast,SUV,OMR,Completed,Credit Card
+S925,ST004,EV049,2026-06-12,00:22:00,01:04:00,20.2,42,2,Fast,SUV,Guindy,Completed,Cash
+S926,ST010,EV007,2026-01-31,11:03:00,11:46:00,35.3,43,3,Fast,Sedan,Egmore,Completed,UPI
+S927,ST007,EV156,2026-01-21,13:49:00,14:09:00,29.0,20,2,Rapid,Sedan,OMR,Completed,Wallet
+S928,ST005,EV083,2026-02-11,17:20:00,17:50:00,21.8,30,2,Rapid,Sedan,Adyar,Completed,Wallet
+S929,ST003,EV039,2026-03-25,18:48:00,19:48:00,33.1,60,5,Normal,Sedan,Anna Nagar,Completed,UPI
+S930,ST009,EV165,2026-02-11,21:15:00,22:55:00,23.2,100,0,Normal,SUV,Porur,Completed,Wallet
+S931,ST003,EV058,2026-05-21,20:52:00,22:20:00,11.8,88,5,Normal,Sedan,Anna Nagar,Completed,Wallet
+S932,ST001,EV007,2026-01-11,09:14:00,09:39:00,20.3,25,5,Rapid,MUV,Chennai Central,Completed,Wallet
+S933,ST009,EV055,2026-01-18,04:37:00,06:34:00,32.5,117,11,Normal,Sedan,Porur,Completed,Credit Card
+S934,ST009,EV067,2026-01-02,21:47:00,22:44:00,15.1,57,1,Fast,Sedan,Porur,Completed,Wallet
+S935,ST002,EV052,2026-06-16,11:01:00,13:01:00,15.9,120,12,Normal,MUV,T Nagar,Completed,Cash
+S936,ST005,EV056,2026-06-26,18:56:00,19:24:00,30.0,28,4,Fast,Sedan,Adyar,Completed,Credit Card
+S937,ST006,EV171,2026-02-22,16:46:00,18:31:00,15.3,105,13,Normal,Sedan,Velachery,Completed,Credit Card
+S938,ST002,EV095,2026-06-07,07:00:00,07:44:00,10.0,44,34,Rapid,SUV,T Nagar,Completed,Credit Card
+S939,ST004,EV228,2026-04-19,19:23:00,20:20:00,11.1,57,0,Normal,SUV,Guindy,Completed,Credit Card
+S940,ST002,EV143,2026-06-12,19:43:00,20:19:00,13.6,36,9,Fast,MUV,T Nagar,Completed,Debit Card
+S941,ST005,EV045,2026-01-06,19:30:00,20:52:00,31.7,82,0,Normal,Hatchback,Adyar,Completed,UPI
+S942,ST010,EV001,2026-01-12,18:49:00,19:29:00,18.6,40,5,Rapid,Hatchback,Egmore,Completed,UPI
+S943,ST010,EV231,2026-04-22,17:44:00,18:27:00,12.8,43,2,Fast,Sedan,Egmore,Completed,Debit Card
+S944,ST009,EV247,2026-05-19,08:47:00,09:35:00,41.5,48,8,Fast,SUV,Porur,Completed,Wallet
+S945,ST002,EV161,2026-06-04,10:08:00,12:02:00,27.3,114,5,Normal,SUV,T Nagar,Completed,Credit Card
+S946,ST010,EV134,2026-03-29,17:53:00,18:31:00,32.2,38,19,Fast,MUV,Egmore,Completed,UPI
+S947,ST010,EV141,2026-01-02,10:35:00,11:43:00,35.2,68,7,Fast,Sedan,Egmore,Completed,Wallet
+S948,ST009,EV037,2026-06-18,20:14:00,20:34:00,6.4,20,9,Fast,Hatchback,Porur,Failed,UPI
+S949,ST005,EV019,2026-03-03,19:19:00,19:56:00,10.5,37,2,Fast,SUV,Adyar,Completed,UPI
+S950,ST005,EV236,2026-04-26,22:27:00,23:01:00,19.6,34,3,Rapid,Hatchback,Adyar,Completed,Wallet
+S951,ST010,EV226,2026-06-01,04:31:00,04:54:00,32.4,23,3,Rapid,SUV,Egmore,Completed,Debit Card
+S952,ST008,EV155,2026-01-07,14:31:00,15:30:00,12.7,59,5,Fast,Sedan,Tambaram,Completed,Wallet
+S953,ST001,EV119,2026-03-24,12:49:00,13:20:00,31.9,31,4,Fast,SUV,Chennai Central,Completed,Debit Card
+S954,ST010,EV110,2026-04-10,19:34:00,20:43:00,25.7,69,3,Fast,Sedan,Egmore,Completed,UPI
+S955,ST003,EV114,2026-01-20,09:31:00,10:48:00,19.7,77,11,Normal,SUV,Anna Nagar,Completed,UPI
+S956,ST002,EV095,2026-02-12,08:47:00,09:17:00,21.7,30,12,Rapid,SUV,T Nagar,Completed,Cash
+S957,ST002,EV233,2026-04-18,16:17:00,17:20:00,18.4,63,5,Normal,Hatchback,T Nagar,Completed,Credit Card
+S958,ST002,EV060,2026-01-07,08:36:00,10:18:00,25.3,102,5,Normal,Sedan,T Nagar,Completed,Credit Card
+S959,ST003,EV036,2026-03-18,08:44:00,10:44:00,26.8,120,2,Normal,SUV,Anna Nagar,Completed,Debit Card
+S960,ST004,EV131,2026-05-03,19:12:00,19:43:00,22.4,31,5,Fast,SUV,Guindy,Completed,Credit Card
+S961,ST002,EV083,2026-05-03,16:04:00,17:09:00,40.0,65,12,Fast,Sedan,T Nagar,Completed,Wallet
+S962,ST001,EV128,2026-02-19,18:59:00,20:22:00,29.7,83,4,Normal,SUV,Chennai Central,Completed,UPI
+S963,ST007,EV155,2026-06-03,03:04:00,03:26:00,2.7,22,10,Fast,Hatchback,OMR,Failed,Debit Card
+S964,ST005,EV065,2026-05-01,16:24:00,17:19:00,12.9,55,3,Fast,Hatchback,Adyar,Completed,Debit Card
+S965,ST005,EV068,2026-03-15,18:14:00,19:39:00,21.2,85,2,Normal,MUV,Adyar,Completed,Cash
+S966,ST007,EV149,2026-06-21,18:49:00,19:26:00,32.0,37,5,Fast,Hatchback,OMR,Completed,Cash
+S967,ST003,EV239,2026-01-31,19:56:00,21:34:00,30.7,98,3,Normal,Sedan,Anna Nagar,Completed,Cash
+S968,ST008,EV131,2026-05-18,13:16:00,13:29:00,4.7,13,1,Fast,Sedan,Tambaram,Failed,Cash
+S969,ST007,EV014,2026-02-20,10:27:00,11:22:00,22.4,55,0,Fast,SUV,OMR,Completed,UPI
+S970,ST002,EV111,2026-03-13,07:34:00,07:48:00,5.8,14,4,Normal,Hatchback,T Nagar,Failed,Credit Card
+S971,ST004,EV158,2026-02-26,18:36:00,18:58:00,3.1,22,4,Fast,MUV,Guindy,Failed,UPI
+S972,ST003,EV045,2026-01-24,17:39:00,17:57:00,17.9,18,3,Rapid,Sedan,Anna Nagar,Completed,Credit Card
+S973,ST005,EV099,2026-01-28,00:42:00,02:26:00,17.4,104,0,Normal,SUV,Adyar,Completed,Cash
+S974,ST007,EV053,2026-01-06,17:17:00,19:07:00,20.3,110,3,Normal,Hatchback,OMR,Completed,Debit Card
+S975,ST003,EV098,2026-06-30,06:53:00,07:31:00,20.1,38,10,Fast,SUV,Anna Nagar,Completed,Cash
+S976,ST008,EV186,2026-01-07,18:36:00,20:28:00,10.7,112,4,Normal,Hatchback,Tambaram,Completed,Wallet
+S977,ST007,EV010,2026-01-23,15:22:00,16:50:00,15.4,88,4,Normal,SUV,OMR,Completed,Wallet
+S978,ST006,EV072,2026-01-13,19:05:00,19:46:00,26.8,41,2,Fast,Sedan,Velachery,Completed,Credit Card
+S979,ST004,EV005,2026-04-15,12:33:00,12:45:00,7.2,12,5,Normal,MUV,Guindy,Failed,Credit Card
+S980,ST010,EV202,2026-01-20,06:06:00,07:16:00,34.3,70,5,Normal,Hatchback,Egmore,Completed,UPI
+S981,ST006,EV095,2026-02-13,19:32:00,20:22:00,15.3,50,3,Fast,SUV,Velachery,Completed,Cash
+S982,ST005,EV205,2026-04-29,10:11:00,11:16:00,34.1,65,0,Fast,Hatchback,Adyar,Completed,Wallet
+S983,ST007,EV129,2026-05-21,17:25:00,17:58:00,33.0,33,5,Rapid,SUV,OMR,Completed,Wallet
+S984,ST003,EV193,2026-01-10,09:38:00,10:21:00,23.2,43,3,Rapid,Hatchback,Anna Nagar,Completed,UPI
+S985,ST004,EV065,2026-04-22,19:48:00,21:00:00,19.7,72,16,Normal,MUV,Guindy,Completed,Wallet
+S986,ST007,EV233,2026-04-30,19:23:00,19:45:00,40.3,22,5,Rapid,SUV,OMR,Completed,Wallet
+S987,ST007,EV144,2026-01-20,18:22:00,18:49:00,1.2,27,1,Fast,SUV,OMR,Failed,Debit Card
+S988,ST001,EV133,2026-01-07,16:40:00,17:26:00,29.6,46,2,Fast,Sedan,Chennai Central,Completed,Cash
+S989,ST002,EV037,2026-04-23,19:27:00,19:56:00,14.9,29,11,Fast,Sedan,T Nagar,Completed,Credit Card
+S990,ST004,EV039,2026-01-24,18:17:00,19:50:00,14.3,93,3,Normal,Sedan,Guindy,Completed,Wallet
+S991,ST009,EV173,2026-05-26,10:58:00,12:13:00,33.3,75,30,Normal,MUV,Porur,Completed,Wallet
+S992,ST002,EV085,2026-01-21,18:51:00,19:36:00,40.6,45,14,Rapid,SUV,T Nagar,Completed,Debit Card
+S993,ST009,EV131,2026-02-09,18:53:00,19:56:00,38.7,63,1,Fast,SUV,Porur,Completed,Debit Card
+S994,ST008,EV179,2026-04-14,05:37:00,06:45:00,17.2,68,30,Normal,MUV,Tambaram,Completed,Cash
+S995,ST009,EV104,2026-04-03,14:25:00,15:30:00,29.9,65,26,Normal,Sedan,Porur,Completed,Wallet
+S996,ST003,EV061,2026-04-17,16:01:00,17:35:00,38.1,94,3,Normal,SUV,Anna Nagar,Completed,Debit Card
+S997,ST004,EV024,2026-06-06,20:21:00,22:04:00,12.6,103,5,Normal,Sedan,Guindy,Completed,Credit Card
+S998,ST001,EV080,2026-01-01,16:02:00,17:43:00,39.4,101,5,Normal,MUV,Chennai Central,Completed,Debit Card
+S999,ST002,EV135,2026-01-10,23:05:00,23:48:00,22.5,43,7,Rapid,SUV,T Nagar,Completed,UPI
+S1000,ST010,EV042,2026-03-14,08:29:00,09:00:00,29.4,31,5,Fast,Sedan,Egmore,Completed,Wallet
